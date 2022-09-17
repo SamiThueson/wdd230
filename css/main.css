@@ -1,0 +1,62 @@
+img {
+    width: 10%;
+    height: auto;
+    padding-right: 35px;
+  }
+  a:link {
+    color: rgb(44, 44, 180);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(219, 80, 191);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  html {
+    background: url('../images/more-pumpkins.jpeg') no-repeat center fixed;
+    background-size: cover;
+  }
+  div {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: peru;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px;
+    max-width: 60%;
+    margin: auto;
+    padding: 10px;
+  }
+  main {
+    background-color: burlywood;
+    max-width: 60%;
+    margin: auto;
+    border-radius: 5px;
+  }
+  footer {
+    margin: auto;
+    background-color: lightgray;
+    border-style: dashed;
+    border-radius: 5px;
+    max-width: 60%;
+  }
