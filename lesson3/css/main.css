@@ -1,0 +1,143 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+    background: url('../images/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Raleway', 'Montserrat', sans-serif;
+}
+
+header,
+footer {
+	background-color: #05668d;
+    color: #f4ebd9;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+header,
+nav,
+main,
+footer {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 2rem;
+}
+h2,
+h3 {
+	padding: .5rem;
+	color: #05668d;
+}
+
+ul,
+li,
+p {
+	padding: .5rem;
+    font-family: 'Nunito Sans', 'Montserrat', sans-serif;
+}
+
+.blue {
+    color: #05668d;
+}
+.light-blue {
+    color: #7da9b3;
+}
+.white {
+    color: #f4ebd9;
+    background-color: darkgray;
+}
+.orange {
+    color: #f27059;
+}
+.green {
+    color: #629677;
+}
+.brown {
+    color: #6d5959;
+}
+
+img {
+    width: 40%;
+    height: auto;
+}
+
+.colors {
+    background-color: white;
+}
+
+nav {
+	background-color: #7da9b3;
+	text-align: center;
+	box-shadow: 0 0 10px;
+}
+
+nav {
+	display: flex;
+	flex-direction: column;
+}
+
+nav div {
+	flex: 1 1 auto;
+}
+
+nav a {
+	display: block;
+	color: #6d5959;
+	text-align: center;
+	padding: 15px;
+	text-decoration: none;
+	font-size: 0.9rem;
+}
+
+nav a:hover {
+	background-color: #f27059;
+	color: #f4ebd9;
+}
+
+main {
+    text-align: center;
+    padding: 3%;
+    background-color: #f4ebd9;
+    border: #6d5959;
+    border-style: solid;
+    border-radius: 1px;
+}
+
+footer {
+	display: flex;
+	padding: 1rem;
+	justify-content: space-between;
+	font-weight: 600;
+}
+
+/***********************************************/
+/** Media Queries for larger views *************/
+/***********************************************/
+
+@media (min-width: 37.5em) {
+	nav {
+		flex-direction: row;
+	}
+	
+	nav a {
+		font-size: 1.1rem;
+	}
+}
+
+@media (min-width: 48em) {
+	nav a {
+		font-size: 1.3rem;
+	}
+}
