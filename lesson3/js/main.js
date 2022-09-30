@@ -1,1 +1,1 @@
-document.querySelector('#©').textContent = new Date(Date.now()).getFullYear();
+document.querySelector('#year').textContent = new Date(Date.now()).getFullYear();
