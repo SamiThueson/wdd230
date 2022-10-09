@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Homepage of Farmerville Chamber of Commerce for Sami Thueson in WDD 230: Web Frontend Development at Brigham Young University - Idaho">
+    <title>Farmerville Chamber - Homepage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link href="./css/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito+Sans&family=Raleway&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="flex-header">
+            <div class="logo">
+                <img src="../lesson3/images/Optimized-logo.png" alt="logo image">
+                <section class="heading">
+                    <h1>Farmerville</h1>
+                    <h2> Chamber of Commerce</h2>
+                </section>
+            </div>
+            <div class="social">
+                <a href="facebook.com"><img src="images/facebook.png" alt="facebook icon"></a>
+                <a href="instagram.com"><img src="images/instagram.png" alt="instagram icon"></a>
+            </div>
+            <nav>
+                <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
+                <ul id="primaryNav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Businesses</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="date"></div>
+    </header>
+    <main>
+        <section>Hero with site name and call to action</section>
+        <section>News Release</section>
+        <section>
+            <div>Spotlight 1</div>
+            <div>Spolight 2</div>
+        </section>
+        <section>Join</section>
+        <section>Event</section>
+        <section>Weather</section>
+    </main>
+    <footer>
+        <div class="flex-footer">
+            <div class="logo-footer">
+                    <img src="../lesson3/images/Optimized-logo.png" alt="logo image">
+            </div>
+            <div class="left">
+                <div>Farmerville Chamber of Commerce</div>
+                <div>Address</div>
+            </div>
+            <div class="right">
+                <div>Email</div>
+                <div>Phone Number</div>
+                <div>Location Map</div>
+            </div>
+        </div>
+        <div class="foot">
+            <p>&copy;<span id="yr"></span> Farmerville Chamber | Sami Thueson | WDD 230 | <span id="updated"></span></p>
+        </div>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
