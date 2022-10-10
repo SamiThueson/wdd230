@@ -10,6 +10,8 @@ footer {
 	padding: 10px;
 }
 
+/******************* HEADER *********************/
+
 .flex-header {
     display: flex;
 	flex-flow: row;
@@ -44,14 +46,28 @@ footer {
 
 .social {
     display: flex;
+    padding: 1rem;
 }
 
-nav button {
+.date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 1%;
+    background-color: #94bbc3;
+}
+
+/******************* NAVIGATION *********************/
+
+/*nav button*/
+header div button {
     margin: .2rem 2vw;
     background: transparent;
     border: none;
     font-size: 2rem;
-    color: #555;
+    color: rgb(56, 55, 55);
 }
 nav {
     background-color: #eee;
@@ -87,15 +103,7 @@ nav ul li a:hover {
     background-color: rgba(0,0,0,0.3);
 }
 
-.date {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-style: solid;
-    border-radius: 5px;
-    padding: 1%;
-    background-color: #94bbc3;
-}
+/********************** MAIN **********************/
 
 main {
     margin-top: 20px;
@@ -116,6 +124,8 @@ main section div {
 main section:nth-child(6) {
     display: none;
 }
+
+/******************* FOOTER *******************/
 
 footer {
     display: flex;
@@ -140,7 +150,7 @@ footer {
 }
 
 
-/****** MEDIUM VIEW ***************/
+/************** MEDIUM VIEW ***************/
 @media (min-width: 37.5em) {
 
     .flex-footer {
@@ -179,14 +189,16 @@ footer {
     }
 }
 
+
 /****************** LARGE VIEW *********************/
 @media (min-width: 800px) {
 
-	nav button {display: none;}
+	header div button {display: none;}
     
     nav ul#primaryNav {
         display: flex;
         border-left: 1px solid rgba(0,0,0,0.3);
+        justify-content: center;
     }
 
     nav ul li a {
