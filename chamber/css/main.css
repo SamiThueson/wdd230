@@ -6,7 +6,7 @@ body {
 header,
 footer {
 	background-color: #7da9b3;
-    color: #f4ebd9;
+    color: #f2f1f0;
 	padding: 10px;
 }
 
@@ -19,8 +19,6 @@ footer {
 
 .logo {
 	display: flex;
-	align-items: left;
-    justify-content: left;
 	margin-left: 1rem;
     margin-bottom: 1rem;
 }
