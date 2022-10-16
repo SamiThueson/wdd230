@@ -22,3 +22,12 @@ function toggleMenu() {
 
 const x = document.getElementById("hamburgerBtn");
 x.onclick = toggleMenu;
+
+
+const parent = document.querySelector('#msg-box');
+
+if (mydate.getDay() == 1 || mydate.getDay() == 5) {
+    
+    document.querySelector('#msg-box').
+    style.display = 'block'
+}

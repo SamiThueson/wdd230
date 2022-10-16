@@ -77,6 +77,7 @@ nav ul {
     padding: 0;
     margin: 0;
     display: none;
+    text-align: center;
 }
 nav ul.open {
     display: block;
@@ -103,6 +104,10 @@ nav ul li a:hover {
     background-color: rgba(0,0,0,0.3);
 }
 
+#msg-box {
+    display: none;
+}
+
 /********************** MAIN **********************/
 
 main {
@@ -113,6 +118,7 @@ main section {
     border: 1px solid rgba(0,0,0,0.2);
     margin: 5px;
     padding: 1rem;
+    height: auto;
 }
 
 main section div {
@@ -123,6 +129,29 @@ main section div {
 
 main section:nth-child(6) {
     display: none;
+}
+
+/* background: url('chamber/images/Optimized-IMG_4065.JPG') no-repeat center;
+    /* background-image: url("/w3images/photographer.jpg"); */
+    /* background-color: #cccccc; */
+    /* background-position: center;
+    background-repeat: no-repeat; */
+    /* background-size: cover; */
+
+.hero img {
+    height: 50%;
+    position: relative;
+}
+
+main section button {
+    margin: .2rem 2vw;
+    background: transparent;
+    border: 1px solid rgba(0,0,0,0.2);
+    font-size: 1rem;
+    color: rgb(56, 55, 55);
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
 }
 
 /******************* FOOTER *******************/
@@ -194,6 +223,13 @@ footer {
 @media (min-width: 800px) {
 
 	header div button {display: none;}
+
+    main section {height: auto;}
+
+    main section button {
+        right: 50px;
+        bottom: 50px;
+    }
     
     nav ul#primaryNav {
         display: flex;
@@ -211,11 +247,13 @@ footer {
         grid-template-columns: auto auto auto auto auto auto;
         grid-template-rows: 140px auto 140px auto 80px auto 80px;
     }
+
     .hero {grid-area: 1 / 2 / 5 / 6;}
     .event {grid-area: 1 / 1 / 3 / 2;}
     .weather {grid-area: 3 / 1 / 5 / 2;}
     .join {grid-area: 5 / 1 / 8 / 2;}
     .news {grid-area: 5 / 2 / 8 / 6;}
+
     .spotlights {grid-area: 1 / 6 / 8 / 7;
     display: grid;
     grid-template-columns: auto;
