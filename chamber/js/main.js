@@ -25,8 +25,9 @@ x.onclick = toggleMenu;
 
 
 const parent = document.querySelector('#msg-box');
+const mydate = new Date();
 
-if (mydate.getDay() == 1 || mydate.getDay() == 5) {
+if (mydate.getDay() == 1 || mydate.getDay() == 2) {
     
     document.querySelector('#msg-box').
     style.display = 'block'

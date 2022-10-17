@@ -106,6 +106,8 @@ nav ul li a:hover {
 
 #msg-box {
     display: none;
+    text-align: center;
+    margin: 15px;
 }
 
 /********************** MAIN **********************/
@@ -121,7 +123,7 @@ main section {
     height: auto;
 }
 
-main section div {
+.s1, .s2 {
     border: 1px solid rgba(0,0,0,0.2);
     margin: 5px;
     padding: 1rem;
@@ -131,24 +133,52 @@ main section:nth-child(6) {
     display: none;
 }
 
-/* background: url('chamber/images/Optimized-IMG_4065.JPG') no-repeat center;
-    /* background-image: url("/w3images/photographer.jpg"); */
-    /* background-color: #cccccc; */
-    /* background-position: center;
-    background-repeat: no-repeat; */
-    /* background-size: cover; */
-
-.hero img {
-    height: 50%;
+.hero {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 350px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    /* align-content: center;
+    justify-content: center; */
     position: relative;
+    padding: 0%;
+}
+.hero-img {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.hero-image {
+    display: grid;
+    min-width: 350px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.hero-text {
+    grid-area: 1 / 1 / 2 / 2;
+    color: #f2f1f0;
 }
 
+/* .hero-img {
+    Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read
+    background-image: url("../images/Optimized-IMG_4065.JPG");
+  
+    Set a specific height
+    height: auto;
+  
+    Position and center the image to scale nicely on all screens
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
+  
 main section button {
     margin: .2rem 2vw;
     background: transparent;
-    border: 1px solid rgba(0,0,0,0.2);
+    border: 1px solid #f2f1f0;
     font-size: 1rem;
-    color: rgb(56, 55, 55);
+    color: #f2f1f0;
     position: absolute;
     right: 5px;
     bottom: 10px;
@@ -216,6 +246,8 @@ footer {
         display: grid;
         grid-template-columns: auto auto;
     }
+
+    
 }
 
 
@@ -245,7 +277,7 @@ footer {
     main {
         display: grid;
         grid-template-columns: auto auto auto auto auto auto;
-        grid-template-rows: 140px auto 140px auto 80px auto 80px;
+        grid-template-rows: 200px auto 140px auto 50px auto 50px;
     }
 
     .hero {grid-area: 1 / 2 / 5 / 6;}
@@ -256,6 +288,6 @@ footer {
 
     .spotlights {grid-area: 1 / 6 / 8 / 7;
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 250px;
     grid-template-rows: auto;}
 }
