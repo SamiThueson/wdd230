@@ -23,8 +23,8 @@
             </div>
             <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
             <div class="social">
-                <a href="facebook.com"><img src="images/facebook.png" alt="facebook icon"></a>
-                <a href="instagram.com"><img src="images/instagram.png" alt="instagram icon"></a>
+                <a href="facebook.com"><img src="images/facebook.webp" alt="facebook icon"></a>
+                <a href="instagram.com"><img src="images/instagram.webp" alt="instagram icon"></a>
             </div> 
         </div>
         <div class="date"></div>
@@ -41,7 +41,11 @@
     <main> 
         <section class="hero">
             <div class="hero-img">
-                <img class="hero-image" src="./images/Optimized-IMG_4065.JPG" alt="hero image">
+                <picture>
+                    <source srcset="images/hero-img-900-copy.jpg" media="(min-width:900px)">
+                    <source srcset="images/hero-img-700-copy.jpg" media="(min-width:700px)">
+                    <img class="hero-image" src="./images/hero-img-400-copy.jpg" alt="hero image">
+                </picture>
             </div>
             <div class="hero-text">
                 <!--<img src="./images/Optimized-IMG_4065.JPG" alt="hero background image">-->
