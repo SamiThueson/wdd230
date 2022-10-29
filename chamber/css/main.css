@@ -6,8 +6,12 @@ body {
 header,
 footer {
 	background-color: #7da9b3;
-    color: #f2f1f0;
+    color: white;
 	padding: 10px;
+}
+
+p {
+    font-family: 'Nunito Sans', 'Montserrat', sans-serif;
 }
 
 /******************* HEADER *********************/
@@ -191,6 +195,23 @@ main section button {
     bottom: 10px;
 }
 
+/************* DISCOVER PAGE MAIN **************/
+.farm-images {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.all-img {
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.des-img {
+    text-align: center;
+    max-width: 400px;
+}
+
 /******************* FOOTER *******************/
 
 footer {
@@ -254,9 +275,20 @@ footer {
         grid-template-columns: auto auto;
     }
 
-    
 }
 
+@media (min-width: 800px) {
+    /************* DISCOVER PAGE *****************/
+    .farm-images {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto auto;
+        justify-items: center;
+        grid-gap: 0rem;
+    }
+
+    .all-img:hover {box-shadow: 0 0 50px #333;}
+}
 
 /****************** LARGE VIEW *********************/
 @media (min-width: 900px) {
@@ -297,4 +329,15 @@ footer {
     display: grid;
     grid-template-columns: 250px;
     grid-template-rows: auto;}
+
+}
+
+@media (min-width: 1200px) {
+    /************* DISCOVER PAGE *****************/
+    .farm-images {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: auto auto auto;
+        justify-items: center;
+    }
 }

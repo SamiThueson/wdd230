@@ -1,3 +1,5 @@
+// INDEX PAGE
+
 document.querySelector("#yr").textContent = new Date(Date.now()).getFullYear();
 
 document.querySelector("#updated").textContent = `Last Modification: ${document.lastModified}`;
