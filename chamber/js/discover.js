@@ -36,7 +36,7 @@ pimages.forEach(image => {
 
 if (!localStorage.getItem('lastvisit')) {
     localStorage.setItem('lastvisit', Date.now());
-    document.getElementById('visit').textContent = 'this is your 1st ';
+    document.getElementById('visit').textContent = 'This is your 1st visit!';
 } else {
     setStyles();
 }
@@ -49,7 +49,7 @@ function setStyles() {
         console.log(difference);
         let daysDifference = Math.floor(difference/1000/60/60/24);
 
-    document.getElementById('visit').texContent = daysDifference;
+    document.getElementById('visit').textContent = daysDifference;
 
     localStorage.setItem('lastvisit', Date.now());
 }
