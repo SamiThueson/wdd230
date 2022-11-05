@@ -257,7 +257,9 @@ textarea {
 }
 
 #submit {
-    background-color: #94bbc3;
+    background-color: #05668D;
+    border-color: white;
+    color: white;
 }
 
 /******************* THANKYOU PAGE *******************/
