@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Join Page of Farmerville Chamber of Commerce for Sami Thueson in WDD 230: Web Frontend Development at Brigham Young University - Idaho">
+    <title>Join</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link href="./css/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito+Sans&family=Raleway&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon-2.ico">
+</head>
+<body>
+    <header>
+        <div class="flex-header">
+            <div class="logo">
+                <img src="./images/logo-color.webp" alt="logo image">
+                <div class="heading">
+                    <h1>Farmerville</h1>
+                    <h2> Chamber of Commerce</h2>
+                </div>
+            </div>
+            <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
+            <div class="social">
+                <a href="facebook.com"><img src="images/facebook.webp" alt="facebook icon"></a>
+                <a href="instagram.com"><img src="images/instagram.webp" alt="instagram icon"></a>
+            </div> 
+        </div>
+        <div class="date"></div>
+    </header>
+    <nav>
+        <ul id="primaryNav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="discover.html">Discover</a></li>
+            <li class="active"><a href="join.html">Join</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="formflex">
+        <form method="get" action="thankyou.html">
+            <!-- <fieldset>
+                <legend>Personal Information</legend> -->
+                <label for="fname">First Name*:</label>
+                <input id="fname" type="text" name="firstname" required>
+                <label for="lname">Last Name*:</label>
+                <input id="lname" type="text" name="lastname" required>
+                <label for="email">Email*:</label>
+                <input id="email" type="email" name="email" placeholder="myemail@email.com" required>
+                <label for="cell">Cell Phone Number*:</label>
+                <input id="cell" type="tel" name="cellnumber" placeholder="123-555-1234" required>
+            <!-- </fieldset> -->
+
+            <label for="title">Business Position Title</label>
+            <label for="title">(Only letters, spaces, dashes,</label>
+            <label for="title"> and at least 7 characters):</label>
+            <input id="title" name="title" pattern="[- A-Za-z]+" minlength="7">
+            <label for="bname">Business Name*:</label>
+            <input id="bname" type="text" name="businessname" required>
+
+            <div>Choose your Membership Level</div>
+            <div id="radio">
+                <input id="mlevel1" type="radio" name="membershiplevel" value="NP Membership">
+                <label for="mlevel1">Non Profit</label>
+                <input id="mlevel2" type="radio" name="membershiplevel" value="Bronze Membership">
+                <label for="mlevel2">Bronze</label>
+                <input id="mlevel3" type="radio" name="membershiplevel" value="Silver Membership">
+                <label for="mlevel3">Sliver</label>
+                <input id="mlevel4" type="radio" name="membershiplevel" value="Gold Membership">
+                <label for="mlevel4">Gold</label>
+            </div>
+
+            <label for="message">Business Description:</label>
+            <textarea id="message" placeholder="your biz description here"></textarea>
+
+            <input id="date" type="hidden" name="daydate">
+
+            <input id="submit" type="submit" value="Join the Chamber">
+        </form>
+        <div class="mlevel">
+            <h1>Membership Levels Benefits</h1>
+            <h2>NP Membership</h2>
+            <ul>
+                <li>For non profit organizations and there is no fee</li>
+            </ul>
+            <h2>Bronze Membership</h2>
+            <ul>
+                <li>15% discount on events</li>
+                <li>10% discount on advertising</li>
+                <li>Fee of $50/month</li>
+            </ul>
+            <h2>Sliver Membership</h2>
+            <ul>
+                <li>25% discount on events</li>
+                <li>15% discount on advertising</li>
+                <li>Free participation in the trade fair</li>
+                <li>Fee of $100/month</li>
+            </ul>
+            <h2>Gold Membership</h2>
+            <ul>
+                <li>50% discount on events</li>
+                <li>50% discount on advertising</li>
+                <li>Free participation in the trade fair</li>
+                <li>5 free featured ads per year</li>
+                <li>1 free training per quarter</li>
+                <li>Fee of $250/month</li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+        <div class="flex-footer">
+            <div class="logo-footer">
+                    <img src="./images/logo-color.webp" alt="logo image">
+            </div>
+            <div class="left">
+                <div>Farmerville Chamber of Commerce</div>
+                <div>Address</div>
+            </div>
+            <div class="right">
+                <div>Email</div>
+                <div>Phone Number</div>
+                <div><a href="https://goo.gl/maps/TPdT3pWpEsA5KeQR9">Location Map</a></div>
+            </div>
+        </div>
+        <div class="foot">
+            <p>&copy;<span id="yr"></span> Farmerville Chamber | Sami Thueson | WDD 230 | <span id="updated"></span></p>
+        </div>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/join.js"></script>
+</body>
+</html>

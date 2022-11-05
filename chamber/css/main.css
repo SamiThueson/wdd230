@@ -129,6 +129,7 @@ main {
 }
 main section {
     border: 1px solid rgba(0,0,0,0.2);
+    background-color: #eee;
     margin: 5px;
     padding: 1rem;
     height: auto;
@@ -212,6 +213,63 @@ main section button {
     max-width: 400px;
 }
 
+/******************* JOIN PAGE MAIN *******************/
+form {
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: #eee;
+}
+
+.mlevel {
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: #eee;
+}
+
+form input:required {
+    border-left: red solid 6px;
+
+}
+
+form input:required:valid {
+    border-left: green solid 6px;
+    
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+label, input {
+    display: block;
+    font-size: 1em;
+}
+
+textarea {
+    height: 150px;
+    width: 300px;
+}
+
+#radio label, #radio input {
+    display: inline;
+}
+
+#submit {
+    background-color: #94bbc3;
+}
+
+/******************* THANKYOU PAGE *******************/
+#thanks {
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: #eee;
+    text-align: center;
+}
+
+
 /******************* FOOTER *******************/
 
 footer {
@@ -275,6 +333,24 @@ footer {
         grid-template-columns: auto auto;
     }
 
+    /**************** JOIN PAGE *****************/
+    .formflex {
+        display: flex;
+        justify-content: center;
+    }
+
+    form {
+        margin-right: 20px;
+    }
+
+    .mlevel {
+        margin-left: 20px;
+    }
+
+    /**************** THANKYOU PAGE *****************/
+    #thanks {
+        display: block;
+    }
 }
 
 @media (min-width: 800px) {
@@ -311,6 +387,10 @@ footer {
     nav ul li a {
         border: none;
         border-right: 1px solid rgba(0,0,0,0.3);
+    }
+
+    nav ul li:first-child {
+        border-left: 1px solid rgba(0,0,0,0.3);
     }
 
     main {
