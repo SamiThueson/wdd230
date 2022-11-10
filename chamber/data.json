@@ -6,7 +6,7 @@
             "phone": "(318) 368-7200",
             "email": "bayougeneralstore@att.net",
             "website": "https://www.facebook.com/Bayougeneralstore/",
-            "image": "images-3/bayou_store.jpeg"
+            "image": "images-3/bayou_store.jpg"
         },
         {
             "name": "Union Parish Museum of History and Art",
@@ -21,14 +21,14 @@
             "address": "104 North Washington Street Farmerville LA 71241",
             "phone": "(318) 368-9732",
             "website": "https://www.fgazette.com/",
-            "image": "images-3/gazette.jpeg"
+            "image": "images-3/gazette.png"
         },
         {
             "name": "Union General Hospital",
             "address": "901 James Avenue Farmerville LA 71241",
             "phone": "(318) 368-9751",
             "website": "https://www.uniongen.org/",
-            "image": "images-3/union_gen.jpeg"
+            "image": "images-3/union_gen.png"
         },
         {
             "name": "Trees of Righteousness Outreach, Inc",
@@ -43,14 +43,14 @@
             "phone": "(318) 548-0124",
             "email": "dsup@mail.com",
             "website": "https://dsup.webs.com/",
-            "image": "images-3/dsup.jpeg"
+            "image": "images-3/dsup.jpg"
         },
         {
             "name": "Magic Nails",
             "address": "110 Miller St Farmerville LA 71241",
             "phone": "(318) 620-9079",
             "website": "https://www.facebook.com/people/Magic-Nails/100063796801639/",
-            "image": "images-3/magic_nails.jpeg"
+            "image": "images-3/magic_nails.jpg"
         },
         {
             "name": "MS Hair Studio",
@@ -58,7 +58,7 @@
             "phone": "(318) 243-4809",
             "email": "morgansavage50@gmail.com",
             "website": "https://morgansavage.glossgenius.com/?fbclid=IwAR1sqv2hYN08ZZiICTVxvmdwmbozf8Eg1yCnWCJ3ceuihaDa_ezyEQPA6MA",
-            "image": "images-3/ms_hair.jpeg"
+            "image": "images-3/ms_hair.jpg"
         },
         {
             "name": "C & W Tire Service, Inc.",
@@ -66,7 +66,7 @@
             "phone": "(318) 368-9352",
             "email": "cwtireserviceinc@yahoo.com",
             "website": "http://www.candwtireservice.com/",
-            "image": "images-3/c_w.jpeg"
+            "image": "images-3/c_w.png"
         },
         {
             "name": "Wild Wash, LLC",
@@ -74,7 +74,7 @@
             "phone": "(318) 953-7843",
             "email": "Kourtne.g25@gmail.com",
             "website": "https://www.facebook.com/wildwashfarmerville/",
-            "image": "images-3/wild_wash.jpeg"
+            "image": "images-3/wild_wash.jpg"
         },
         {
             "name": "Kilpatrick Funeral Homes, Inc.",
@@ -82,14 +82,14 @@
             "phone": "(318) 368-3025",
             "email": "lmarchelos@kilpatrickfuneralhomes.com",
             "website": "https://www.kilpatrickfuneralhomes.com/location/farmerville/",
-            "image": "images-3/kilpatrick.jpeg"
+            "image": "images-3/kilpatrick.png"
         },
         {
             "name": "Union Veterinary Clinic",
             "address": "807 Marion Hwy Farmerville La 71241",
             "phone": "(318) 368-2137",
             "website": "https://unionveterinaryclinic.com/",
-            "image": "images-3/vet.jpeg"
+            "image": "images-3/vet.png"
         },
         {
             "name": "Eagle Point United Pentecostal Church",
@@ -97,14 +97,14 @@
             "phone": "(318) 237-9676",
             "email": "eaglepointupc@icloud.com",
             "website": "https://opossum-quillfish-mdnw.squarespace.com/",
-            "image": "images-3/eagle_point.jpeg"
+            "image": "images-3/eagle_point.jpg"
         },
         {
             "name": "First Baptist Church",
             "address": "400 N. Main St Farmerville LA 71241",
             "phone": "(318) 368-3848",
             "website": "http://fbcfarmerville.com/index.html",
-            "image": "images-3/fbc.jpeg"
+            "image": "images-3/fbc.png"
         }
     ]
 }
