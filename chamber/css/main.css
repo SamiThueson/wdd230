@@ -141,7 +141,7 @@ main section {
     padding: 1rem;
 }
 
-main section:nth-child(6) {
+.index section:nth-child(6) {
     display: none;
 }
 
@@ -185,7 +185,7 @@ main section:nth-child(6) {
     position: relative;
 } */
   
-main section button {
+.index section button {
     margin: .2rem 2vw;
     background: transparent;
     border: 1px solid #f2f1f0;
@@ -271,6 +271,64 @@ textarea {
     text-align: center;
 }
 
+/**************** DIRECTORY PAGE MAIN *****************/
+.businesses {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.businesses section {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: #eee;;
+    padding: 30px;
+    text-align: center;
+    word-wrap: break-word;
+    width: 300px;
+    margin: 20px;
+}
+
+.businesses h2 {
+    margin-top: 20px;
+}
+
+.businesses img {
+    width: 90%;
+    max-height: 250px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.table {
+    margin: 10px auto;
+	border: thin solid;
+	border-collapse: collapse;
+    text-align: center;
+}
+
+.table td {
+    display: block;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.table tr {
+    border: 1px solid rgba(0,0,0,0.2);
+    border-collapse: collapse;
+}
+
+.table tr:nth-child(odd) {
+    background-color: #eee;
+}
 
 /******************* FOOTER *******************/
 
@@ -316,11 +374,11 @@ footer {
         margin-left: .5rem;
     }
 
-    main {
+    .index {
         display: grid;
         grid-template-columns: auto auto auto auto;
     }
-    main section:nth-child(6) {
+    .index section:nth-child(6) {
         display: grid;
     }
     .hero {grid-area: 1 / 1 / 2 / 5;}
@@ -353,6 +411,11 @@ footer {
     #thanks {
         display: block;
     }
+
+    /************* DIRECTORY PAGE *****************/
+    /* .cards {
+        margin-left: 44%;
+    } */
 }
 
 @media (min-width: 800px) {
@@ -373,9 +436,9 @@ footer {
 
 	header div button {display: none;}
 
-    main section {height: auto;}
+    .index section {height: auto;}
 
-    main section button {
+    .index section button {
         right: 50px;
         bottom: 50px;
     }
@@ -395,7 +458,7 @@ footer {
         border-left: 1px solid rgba(0,0,0,0.3);
     }
 
-    main {
+    .index {
         display: grid;
         grid-template-columns: auto auto auto auto auto auto;
         grid-template-rows: 200px auto 140px auto 50px auto 50px;
@@ -412,6 +475,11 @@ footer {
     grid-template-columns: 250px;
     grid-template-rows: auto;}
 
+
+    /************* DIRECTORY PAGE *****************/
+    .table td {
+        display: table-cell;
+    }
 }
 
 @media (min-width: 1200px) {
