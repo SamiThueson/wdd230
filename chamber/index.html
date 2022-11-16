@@ -42,14 +42,14 @@
         <section class="hero">
             <div class="hero-img">
                 <picture>
-                    <source srcset="images/hero-img-900-copy.jpg" media="(min-width:900px)">
-                    <source srcset="images/hero-img-700-copy.jpg" media="(min-width:700px)">
-                    <img class="hero-image" src="./images/hero-img-400-copy.jpg" alt="hero image">
+                    <source srcset="images/hero-img-900.jpg" media="(min-width:900px)">
+                    <source srcset="images/hero-img-700.jpg" media="(min-width:700px)">
+                    <img class="hero-image" src="./images/hero-img-400.jpg" alt="hero image">
                 </picture>
             </div>
             <div class="hero-text">
                 <h1>Welcome to Farmerville</h1>
-                <button id="chamberBtn">Join the Chamber</button>
+                <a href="join.html" id="chamberBtn">Join the Chamber</a>
             </div>
         </section>
         <section class="event">
@@ -61,11 +61,10 @@
         <section class="weather">
             <h2>Weather</h2>
             <div class="temp">
-                <img src="#" alt="cloudy sun image">
-                <p><span id="t">33</span>&#8457;</p>
+                <p><span id="current-temp"></span> &deg;F</p>
+                <figure><img src="" alt="" id="weathericon" />  <figcaption></figcaption></figure>
             </div>
-            <h3>Partly Cloudy</h3>
-            <p>Wind Speed: <span id="ws">5</span> km/h</p>
+            <p>Wind Speed: <span id="ws"></span> km/h</p>
             <p>Wind Chill: <span id="wc">N/A</span></p>
         </section>
         <section class="news">
@@ -94,7 +93,7 @@
             </div>
         </section>
         <section class="join">
-            <h3>Join Us!</h3>
+            <a href="join.html">Join Us!</a>
             <p>Discover how to join the chamber of commerce and how it will benefit
                 your organization!
             </p>

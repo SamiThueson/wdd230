@@ -63,12 +63,6 @@ p {
     background-color: #94bbc3;
 }
 
-/*************** DISCOVER PAGE HEADER ***************/
-
-#head {
-    text-align: center;
-}
-
 /******************* NAVIGATION *********************/
 
 /*nav button*/
@@ -118,6 +112,7 @@ nav ul li a:hover {
     display: none;
     text-align: center;
     margin: 15px;
+    padding: 15px;
     background-color: #05668D;
 }
 
@@ -168,7 +163,13 @@ main section {
 }
 .hero-text {
     grid-area: 1 / 1 / 2 / 2;
-    color: #f2f1f0;
+    color: white;
+}
+
+.hero h1 {
+    background-color: #333;
+    text-align: center;
+    /* border-radius: 10px; */
 }
 
 /* .hero-img {
@@ -185,15 +186,47 @@ main section {
     position: relative;
 } */
   
-.index section button {
+#chamberBtn {
     margin: .2rem 2vw;
-    background: transparent;
-    border: 1px solid #f2f1f0;
-    font-size: 1rem;
-    color: #f2f1f0;
+    padding: 10px;
+    background: #05668D;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    box-shadow: 0 0 15px #333;
+    color: white;
     position: absolute;
     right: 5px;
     bottom: 10px;
+}
+
+.join a {
+    margin: .2rem 2vw;
+    padding: 10px;
+    background: #05668D;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    box-shadow: 0 0 15px #333;
+}
+
+.event, .weather, .news, .spotlights, .join {
+    text-align: center;
+}
+
+.temp {
+    border-bottom: 1px solid #333;
+}
+#current-temp {
+    font-size: 30px;
+}
+
+.spotlights div h3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #333;
 }
 
 /************* DISCOVER PAGE MAIN **************/
@@ -211,6 +244,17 @@ main section {
 .des-img {
     text-align: center;
     max-width: 400px;
+}
+
+.head-foot {
+    text-align: center;
+    border: 2px solid rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.2);
+    color: white;
+    margin: 5px;
+    padding: 1rem;
+    height: auto;
 }
 
 /******************* JOIN PAGE MAIN *******************/
@@ -307,6 +351,10 @@ textarea {
     justify-items: center;
 }
 
+.cards {
+    margin-right: 10px;
+}
+
 .table {
     margin: 10px auto;
 	border: thin solid;
@@ -317,6 +365,7 @@ textarea {
 .table td {
     display: block;
     text-align: left;
+    word-wrap: break-word;
     border-collapse: collapse;
     padding: 10px;
 }

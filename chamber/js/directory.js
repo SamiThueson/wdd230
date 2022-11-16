@@ -94,3 +94,39 @@ function displayBusinessTable(item) {
 
 // let button1 = document.querySelector('.cards');
 // button1.addEventListener('click', clearTable, displayBusinesses);
+
+
+// let button1 = document.querySelector('.cards');
+// let button2 = document.querySelector('.tbl');
+
+// const cardsActive = () => {
+//     if (document.querySelector(".cards").style.display == "none") {
+//         document.querySelector(".cards").style.display = "block";
+//     }
+// }
+
+// const cardsDeactive = () => {
+//     if (document.querySelector(".cards").style.display == "block") {
+//         document.querySelector(".cards").style.display = "none";
+//     }
+// }
+
+// button1.addEventListener("click", cardsActive);
+
+// document.body.addEventListener("click", cardsDeactive);
+
+
+function toggleCards() {
+    if(document.getElementById('businesses').style.display == 'none')
+        document.getElementById('businesses').style.display = 'flex';
+        // document.getElementById('table').style.display = 'none';
+    else
+        document.getElementById('businesses').style.display = 'none';
+}
+
+function toggleTable() {
+    if(document.getElementById('table').style.display == 'none')
+        document.getElementById('table').style.display = 'block';
+    else
+        document.getElementById('table').style.display = 'none';
+}
