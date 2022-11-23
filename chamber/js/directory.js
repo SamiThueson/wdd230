@@ -15,9 +15,6 @@ async function getBusinesses(requestURL) {
 
 getBusinesses(requestURL);
 
-// let button2 = document.querySelector('.tbl');
-// button2.addEventListener('click', clearCards);
-
 function displayBusinesses(item) {
     let business = document.createElement('section');
     let h2 = document.createElement('h2');
@@ -43,16 +40,6 @@ function displayBusinesses(item) {
     business.appendChild(email);
     business.appendChild(website);
     document.querySelector('.businesses').appendChild(business);
-
-    // let button2 = document.querySelector('.tbl');
-    // if (button2.addEventListener('click')) {
-    //     business.style.display = 'none'
-    // }
-    // business.style.display = 'none';
-
-    // business.forEach((item) => {
-    //     item.remove();
-    // }
 }
 
 function displayBusinessTable(item) {
@@ -81,52 +68,19 @@ function displayBusinessTable(item) {
     document.querySelector('.table').appendChild(table_rows);
 }
 
-// function clearCards() {
-//     document.querySelector('.businesses').style.display = 'none';
-// }
+let gridView = document.querySelector('.grid');
+let listView = document.querySelector('.list');
+let list = document.querySelector('.table');
+let grid = document.querySelector('.businesses');
 
-// let button2 = document.querySelector('.tbl');
-// button2.addEventListener('click', clearCards, displayBusinessTable);
-
-// function clearTable() {
-//     document.querySelector('.table').style.display = 'none';
-// }
-
-// let button1 = document.querySelector('.cards');
-// button1.addEventListener('click', clearTable, displayBusinesses);
-
-
-// let button1 = document.querySelector('.cards');
-// let button2 = document.querySelector('.tbl');
-
-// const cardsActive = () => {
-//     if (document.querySelector(".cards").style.display == "none") {
-//         document.querySelector(".cards").style.display = "block";
-//     }
-// }
-
-// const cardsDeactive = () => {
-//     if (document.querySelector(".cards").style.display == "block") {
-//         document.querySelector(".cards").style.display = "none";
-//     }
-// }
-
-// button1.addEventListener("click", cardsActive);
-
-// document.body.addEventListener("click", cardsDeactive);
-
-
-function toggleCards() {
-    if(document.getElementById('businesses').style.display == 'none')
-        document.getElementById('businesses').style.display = 'flex';
-        // document.getElementById('table').style.display = 'none';
-    else
-        document.getElementById('businesses').style.display = 'none';
+gridView.addEventListener('click', showGrid);
+function showGrid(){
+  list.classList.add('displayNone');
+  grid.classList.remove('displayNone');
 }
 
-function toggleTable() {
-    if(document.getElementById('table').style.display == 'none')
-        document.getElementById('table').style.display = 'block';
-    else
-        document.getElementById('table').style.display = 'none';
+listView.addEventListener('click', showList);
+function showList(){
+  grid.classList.add('displayNone');
+  list.classList.remove('displayNone');
 }
