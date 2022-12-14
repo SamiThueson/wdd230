@@ -142,7 +142,7 @@ form {
     margin-bottom: 20px;
 }
 
-#updates1, #updates2, #updates3, #updates4, #updates5 {
+.updates1, .updates2, .updates3, .updates4, .updates5 {
     display: inline;
 }
 
@@ -203,7 +203,7 @@ label, input {
     font-size: 1em;
 }
 
-#class1, #class2, #class3, #class4 {
+.class1, .class2, .class3, .class4 {
     display: inline;
 }
 
