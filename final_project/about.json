@@ -3,37 +3,37 @@
         {
             "name": "Staci Huston",
             "team": "Youth Gold",
-            "image": "image-2/staci-h.webp"
+            "image": "../image-2/staci-h.webp"
         },
         {
             "name": "Ryan Palmer",
             "team": "Youth Blue 1",
-            "image": "image-2/ryan-p.webp"
+            "image": "../image-2/ryan-p.webp"
         },
         {
             "name": "Roger Wiblin",
             "team": "Youth Blue 2",
-            "image": "image-2/roger-w.webp"
+            "image": "../image-2/roger-w.webp"
         },
         {
             "name": "Tim Huston",
             "team": "Youth Cabaret",
-            "image": "image-2/tim-h.webp"
+            "image": "../image-2/tim-h.webp"
         },
         {
             "name": "Ana Sargent",
             "team": "Youth Showcase and Cabaret",
-            "image": "image-2/ana-s.webp"
+            "image": "../image-2/ana-s.webp"
         },
         {
             "name": "Becci Christensen",
             "team": "Youth Showcase",
-            "image": "image-2/becci-c.webp"
+            "image": "../image-2/becci-c.webp"
         },
         {
             "name": "Kayli Emfield",
             "team": "Youth Showcase",
-            "image": "image-2/kayli-e.webp"
+            "image": "../image-2/kayli-e.webp"
         }
     ],
     "junior-coaches": [
