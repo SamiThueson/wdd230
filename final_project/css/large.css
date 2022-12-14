@@ -1,0 +1,57 @@
+@media (min-width: 900px) {
+    header div button {display: none;}
+
+    nav ul#primaryNav {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav ul li a {
+        border: none;
+    }
+
+    /******************* MAIN *********************/
+
+    .regis-mini, #join-em, #sprkcity, #thdonate {
+        display: none;
+    }
+
+    .index {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .latin-photo {grid-area: 1 / 1 / 3 / 3;}
+    .mission-st {grid-area: 1 / 3 / 3 / 6;
+        display: flex;
+        flex-direction: column;
+        align-items: center;}
+    .stand-photo {grid-area: 3 / 3 / 5 / 6;}
+    .register-home {
+        display: flex;
+        grid-area: 3 / 1 / 5 / 3;
+    }
+
+
+    /***************** LEARN TO DANCE ******************/
+
+    .learn section{
+        max-width: 544px;
+    }
+
+    /******************* REGISTRATION *********************/
+
+    .register {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    #summer-pic{grid-area: 1 / 1 / 2 / 4}
+    #summer {
+        grid-area: 2 / 1 / 3 / 3;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #summer-form {grid-area: 2 / 3 / 3 / 4;}
+}

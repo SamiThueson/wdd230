@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Registration page of Extreme Ballroom Company for Sami Thueson in WDD 230: Web Frontend Development at Brigham Young University - Idaho">
+    <title>Registration</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link href="./css/small.css" rel="stylesheet">
+    <link href="./css/medium.css" rel="stylesheet">
+    <link href="./css/large.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito+Sans&family=Raleway&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon-2.ico">
+    <script defer src="js/main.js"></script>
+</head>
+<body>
+    <header>
+        <div class="flex-header">
+            <div class="logo">
+                <a href="index.html"><img src="./images/extreme-logo.webp" alt="logo image"></a>
+            </div>
+            <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
+            <nav>
+                <ul id="primaryNav">
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="learntodance.html">LEARN TO DANCE</a></li>
+                    <li class="active"><a href="registration.html">REGISTRATION</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+            </nav>
+            <div class="social">
+                <a href="https://www.facebook.com/ExtremeBallroom/?ref=bookmarks"><img src="images/facebook.webp" alt="facebook icon"></a>
+                <a href="https://www.instagram.com/extreme_ballroom_company/"><img src="images/instagram.webp" alt="instagram icon"></a>
+            </div> 
+        </div>  
+    </header>
+    <main class="register">
+        <section id="summer">
+            <h1>Summer Dance Camp Registration</h1>
+            <p>If you would like to sign up for a summer dance camp, please fill out the form below and select the correct age group.</p>
+            <p>(If you are unsure if a summer dance camp is right for your child. Please <a href="contact.html">contact Extreme</a> with questions and concerns.)</p>
+            <h2>Age Groups and Dates</h2>
+            <ul>
+                <li>Technique classes during dance camp Aug 1-4th for Youth ages (10th-12th grade in the fall)</li>
+                <li>Technique classes during dance camp August 1-4th for Junior age (7th-9th grade in the fall)</li>
+                <li>Technique classes at dance camp August 1-4th for pre teen age (4th-6th grade in the fall)</li>
+                <li>Dance camp August 1-4th at Extreme Ballroom Studios for Pee Wee age (1st thru 3rd grade in the fall)</li>
+            </ul>
+            <div class="tech">
+                <a class="button2" href="https://www.extremeballroom.com/_files/ugd/3af991_a2253cfbb7594d33927b635a341e2305.pdf">2022-2023 Team Lists</a>
+                <a class="button2" href="https://www.extremeballroom.com/_files/ugd/3af991_2b19eb81048646cc9e27daec30a6eaa8.pdf">Technique Explanation Letter</a>
+                <a class="button2" href="https://www.extremeballroom.com/_files/ugd/3af991_d3c74e77433d4a3c83f95b3fcba4b30c.pdf">Technique Placement</a>
+            </div>
+        </section>
+        <section id="summer-pic">
+            <picture>
+                <img src="images/summer-dance.webp" alt="summer dance camp img">
+            </picture>
+        </section>
+        <section id="summer-form">
+            <h2>Summer Dance Camp Form</h2>
+            <form method="get" action="thankregis.html">
+                <div id="top">
+                    <label for="fname">Parent First Name:</label>
+                    <input id="fname" type="text" name="firstname">
+                    <label for="lname">Parent Last Name:</label>
+                    <input id="lname" type="text" name="lastname">
+                    <label for="email">Email Address:</label>
+                    <input id="email" type="email" name="email" placeholder="myemail@email.com" required>
+
+                    <label for="message">Name and level (beginner, intermediate, advanced) or dancer or dancers</label>
+                    <textarea id="message" placeholder="500" required></textarea>
+
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" name="quantity" min="0" max="10" step="1" value="1">
+                </div>
+                <div id="select">Select a Technique Class:</div>
+                <div id="radio">
+                    <div id="one">
+                        <input id="class1" type="radio" name="class" value="Youth Technique (non-Extreme dancers)">
+                        <label id="class1" for="class1">Youth Technique (non-Extreme dancers) $120</label>
+                    </div>
+                    <div id="two">
+                        <input id="class2" type="radio" name="class" value="Junior Technique (non-Extreme dancers)">
+                        <label id="class2" for="class2">Junior Technique (non-Extreme dancers) $120</label>
+                    </div>
+                    <div id="three">
+                        <input id="class3" type="radio" name="class" value="Pre-Teen Technique (non-Extreme dancers)">
+                        <label id="class3" for="class3">Pre-Teen Technique (non-Extreme dancers) $80</label>
+                    </div>
+                    <div id="four">
+                        <input id="class4" type="radio" name="class" value="Pee Wee Dance Camp (non-Extreme dancer)">
+                        <label id="class4" for="class4">Pee Wee Dance Camp (non-Extreme dancer) $40</label>
+                    </div>
+                </div>
+                <input id="date" type="hidden" name="daydate">
+                <input id="submit" type="submit" value="Submit">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div class="foot">
+            <div class="left">
+                <div>2873 E 14 N Idaho Falls, ID 83401</div>
+                <a data-auto-recognition="true" href="mailto:studio@extremeballroom.com">studio@extremeballroom.com</a>
+            </div>
+            <div class="middle">
+                <div id="terms">Terms and Conditions</div>
+                <div>Privacy Policy</div>
+            </div>
+            <p>&copy;<span id="yr"></span> Extreme Ballroom</p>
+        </div>
+    </footer>
+</body>
+</html>

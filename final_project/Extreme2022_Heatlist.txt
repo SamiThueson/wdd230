@@ -1,0 +1,990 @@
+M|A|Eli|Anderson|||365|F|A|Phoebe|Randall|||4294967295|Extreme Ballroom|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|1|1,3,5,7,10,|
+M|A|Breadon|Bird|||383|F|A|Emeila|Bare|||4294967295|Bonneville High School|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Andrew|Black|||386|F|A|Mary|Randall|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|5|1,3,5,7,10,|
+M|A|Adam|Call|||392|F|A|Mallory|Wilson|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Noah|Carlile|||396|F|A|Claire|Allen|||4294967295|IBA|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Mason|Carter|||399|F|A|Darby Jo|Hart|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Sasha|Delton|||409|F|A|Sydney|Harper|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Casey|Duncan|||412|F|A|Madelyn|Young|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Aidan|Ferguson|||418|F|A|Paige|Miller|||4294967295|Aidan Ferguson|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Jacob|Gifford|||431|F|A|Olivia|Cowan|||4294967295|Dance Island Style|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Abram|Greenfield|||434|F|A|Vanessa|Rich|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Hayden|Hansen|||435|F|A|Parker|Cash|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Austin|Harper|||436|F|A|Olivia|Weaver|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Izzak|Hawkins|||443|F|A|Lily|Wall|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Matthew|Holyoak|||450|F|A|Brooke|Ackley|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Carter|Hooper|||452|F|A|Carlee|Hathaway|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|3|1,3,5,7,10,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Casey|Ingo|||457|F|A|Sarah|Oates|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Haley|Jager|||459|F|A|Erickson|Kayson|||4294967295|Haley Jager|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Matthew|Jenkins|||461|F|A|Taia|Scholle|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Ethan|Jones|||462|F|A|Aminadi|White|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|David|Klemetson|||467|F|A|Taylor|Morgan|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Jamison|Koyle|||469|F|A|Jayna|Koyle|||4294967295|IBA|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|2|1,3,5,7,10,|
+M|A|Sam|Lamph|||473|F|A|Gloria|Zentz|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Anthony|Lott|||478|F|A|Cambree|Hathaway|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Ryden|Lyon|||483|F|A|Tahni|Smith|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|4|1,3,5,7,10,|
+M|A|Joshua|McCubbun|||488|F|A|Julie|Slater|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Damion|Mitchell|||490|F|A|BryAna|Tirrell|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Brandon|Myrup|||492|F|A|Madi|Hawks|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Huston|Naegle|||493|F|A|Ember|Titensor|||4294967295|Star Struck|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Josiah|Randall|||509|F|A|Reo|Cash|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Elijah|Ruebush|||514|F|A|Allison|Rhien|||4294967295|IBA|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Brady|Rustad|||518|F|A|Meghan|Christensen|||4294967295|Dance Island Style|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Jacob|Sapp|||519|F|A|Kate|Lewis|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Ryker|Searle|||526|F|A|Paige|Robinson|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Garrett|Shippen|||531|F|A|Ella|Taggart|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Paulo|Siller|||532|F|A|Isabella|Siller|||4294967295|BYU Youth|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|SEMIFINAL|1,3,5,7,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Jaxson|Wilder|||561|F|A|Brinley|Arnold|||4294967295|Extreme|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|QUARTERFINAL|1,3,5,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Jacob|Wood|||565|F|A|Hadley|Hawkins|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 2|1,3,|
+M|A|Gentleman|WriteInAm601|||601|F|A|Lady|WriteInAm601|||4294967295|-|1|04/15/2022 08:00|Heat 1|Individual Events|Youth Pre-Champ Latin||AC-Y|ROUND 1|1,|
+M|A|Scott|Andersen|||364|F|A|Emmy|Wilder|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|David|Arnson|||366|F|A|Haley|Dye|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|Samuel|Birch|||382|F|A|Avery|Spaulding|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|Daniel|Black|||385|F|A|Brinkley|Newell|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|DJ|Carney|||397|F|A|Gracee|Haight|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Collin|Ferguson|||417|F|A|Sally|Rowley|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Eli|Fisher|||420|F|A|Sydney|Hill|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Sam|Gifford|||430|F|A|Mary|Gottfredson|||4294967295|Dance Island Style|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|5|2,4,6,8,|
+M|A|Kyl|Gines|||433|F|A|Liberty|Andersen|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|6|2,4,6,8,|
+M|A|Jacob|Jenkins|||460|F|A|Avonlea|Jenkins|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Dominik|Kawamura|||465|F|A|Marley|Meikle|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|2|2,4,6,8,|
+M|A|Levi|Kearsley|||466|F|A|Chelsea|Hegsted|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|Wyatt|Lewis|||477|F|A|Kaisley|Matsuura|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Sterling|Mann|||484|F|A|Sara|Dobson|||4294967295|Dance Island Style|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|3|2,4,6,8,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Austin|Orme|||499|F|A|Britnee|Belnap|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Jase|Poliski|||506|F|A|Annie|Benson|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|SEMIFINAL|2,4,6,|
+M|A|Ashton|Reilley|||511|F|A|Cambri|Kunde|||4294967295|Ashton Reilley|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|4|2,4,6,8,|
+M|A|Connor|Robison|||517|F|A|Kaydence|Hart|||4294967295|Connor Robison|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|Nathan|Tolman|||546|F|A|Claire|Black|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Sam|Turner|||549|F|A|Remington|Permann|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|QUARTERFINAL|2,4,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Bryant|Wiblin|||558|F|A|Evangeline|Randall|||4294967295|Extreme|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|ROUND 1|2,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|1|04/15/2022 09:58|Heat 2|Individual Events|Junior High Syllabus Newcomer Swing||AC-Y|1|2,4,6,8,|
+M|A|Braydon|Dahlke|||405|F|A|Miriam|Ray|||4294967295|-|1|04/15/2022 10:20|Heat 3|Individual Events|Adult Open Smooth||AC-Y|3|9,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|1|04/15/2022 10:20|Heat 3|Individual Events|Adult Open Smooth||AC-Y|2|9,|
+M|A|Shanden|Hoffman|||449|F|A|Sabrina|Hoffman|||4294967295|-|1|04/15/2022 10:20|Heat 3|Individual Events|Adult Open Smooth||AC-Y|1|9,|
+M|A|Christian|Baird|||367|F|A|Grace|Osai|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Carson|Baker|||368|F|A|Kennedy|Miller|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|6|11,104,|
+M|A|Will|Bare|||376|F|A|Natsha|Brady|||4294967295|IBA|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|4|11,104,|
+M|A|Willl|Bare|||377|F|A|Bethany|McCoy|||4294967295|IBA|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|7|11,104,|
+M|A|Ethan|Carter|||398|F|A|Vivian|Wolfe|||4294967295|Breakaway Ballroom|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Jacob|Gifford|||431|F|A|Olivia|Cowan|||4294967295|Dance Island Style|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Izzak|Hawkins|||443|F|A|Hadley|Hawkins|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Zyon|Henderson|||447|F|A|Barclay|Hailey|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|2|11,104,|
+M|A|Mason|Hunt|||456|F|A|Ava|Mecham|||4294967295|Dance Pacific|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|1|11,104,|
+M|A|Owen|Karstad|||464|F|A|Tiandra|Phelps|||4294967295|Bonneville High School|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Jamison|Koyle|||469|F|A|Rebecca|Gwilliam|||4294967295|IBA|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Sam|Lamph|||473|F|A|Lydia|Williams|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|3|11,104,|
+M|A|Brendan|Marsh|||486|F|A|Savannah|Henderson|||4294967295|-|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|5|11,104,|
+M|A|Elijah|Ruebush|||514|F|A|Lauren|McFadden|||4294967295|IBA|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Garrett|Shippen|||531|F|A|Parker|Cash|||4294967295|Extreme|2|04/15/2022 10:15|Heat 4|Individual Events|Youth Cabaret||AC-Y|SEMIFINAL|11,|
+M|A|Extreme|Ballroom Dance|||372|F|A|Showcase|Youth|||4294967295|Extreme Ballroom Dance|3|04/15/2022 11:30|Heat 11|Team events|Youth Swing Showdance||AC-Y|1|12,|
+M|A|Star Struck|Ballroom|||375|F|A|Fred|Lee|||4294967295|Star Struck Ballroom|3|04/15/2022 11:30|Heat 11|Team events|Youth Swing Showdance||AC-Y|2|12,|
+M|A|Island|Style|||537|F|A|Youth|B|||4294967295|Island Style |3|04/15/2022 11:30|Heat 11|Team events|Youth Swing Showdance||AC-Y|3|12,|
+M|A|Ballroom|Extreme|||507|F|A|Gold|Junior|||4294967295|Ballroom Extreme|3|04/15/2022 11:31|Heat 12|Team events|Junior Ballroom Medley||AC-Y|2|13,|
+M|A|Island|Style|||543|F|A|Junior|A|||4294967295|Island Style|3|04/15/2022 11:31|Heat 12|Team events|Junior Ballroom Medley||AC-Y|1|13,|
+M|A|Ballroom|Extreme|||507|F|A|Blue|Junior|||4294967295|Ballroom Extreme|3|04/15/2022 11:31|Heat 12|Team events|Junior Ballroom Medley||AC-Y|3|13,|
+M|A|Ballroom|Extreme|||507|F|A|Gold|Pre-teen|||4294967295|Ballroom Extreme|3|04/15/2022 11:33|Heat 5|Team events|Pre-Teen Latin Medley||AC-Y|1|14,|
+M|A|Island|Style|||541|F|A|Pre|Teen|||4294967295|Island Style|3|04/15/2022 11:33|Heat 5|Team events|Pre-Teen Latin Medley||AC-Y|2|14,|
+M|A|Extreme|Ballroom Dance|||372|F|A|Showcase|Youth|||4294967295|Extreme Ballroom Dance|3|04/15/2022 11:35|Heat 8|Team events|Youth Ballroom ShowDance||AC-Y|2|15,|
+M|A|Star Struck|Ballroom|||375|F|A|Fred|Lee|||4294967295|Star Struck Ballroom|3|04/15/2022 11:35|Heat 8|Team events|Youth Ballroom ShowDance||AC-Y|3|15,|
+M|A|Island|Style|||538|F|A|Youth|A|||4294967295|Island Style|3|04/15/2022 11:35|Heat 8|Team events|Youth Ballroom ShowDance||AC-Y|1|15,|
+M|A|Dance|Island Style|||458|F|A||Pee Wee|||4294967295|Dance Island Style|3|04/15/2022 11:37|Heat 13|Team events|PeeWee Show Dance||AC-Y|1|16,|
+M|A|Island|Style|||539|F|A|Wee|Pee|||4294967295|Island Style|3|04/15/2022 11:37|Heat 13|Team events|PeeWee Show Dance||AC-Y|2|16,|
+M|A|Ballroom|Extreme|||507|F|A|Baby Shark|Mini's|||4294967295|Ballroom Extreme|3|04/15/2022 11:37|Heat 13|Team events|PeeWee Show Dance||AC-Y|5|16,|
+M|A|Ballroom|Extreme|||507|F|A|Boogie Shoes|PeeWee|||4294967295|Ballroom Extreme|3|04/15/2022 11:37|Heat 13|Team events|PeeWee Show Dance||AC-Y|4|16,|
+M|A|Ballroom|Extreme|||507|F|A|Dancing Bears|PeeWee|||4294967295|Ballroom Extreme|3|04/15/2022 11:37|Heat 13|Team events|PeeWee Show Dance||AC-Y|3|16,|
+M|A|Extreme|Ballroom Dance|||372|F|A|Showcase|Youth|||4294967295|Extreme Ballroom Dance|3|04/15/2022 11:38|Heat 9|Team events|Youth Large Group Showdance||AC-Y|2|17,|
+M|A|Extreme!|Ballroom|||373|F|A|!!|Youth Showdance|||4294967295|-|3|04/15/2022 11:38|Heat 9|Team events|Youth Large Group Showdance||AC-Y|1|17,|
+M|A|Ballroom|Extreme|||507|F|A|Rock and Roll|Pre-Teen White|||4294967295|Ballroom Extreme|4|04/15/2022 13:15|Heat 14|Team events|Pre-Teen Show Dance||AC-Y|5|18,|
+M|A|Island|Style|||541|F|A|Pre|Teen|||4294967295|Island Style|4|04/15/2022 13:15|Heat 14|Team events|Pre-Teen Show Dance||AC-Y|1|18,|
+M|A|Ballroom|Extreme|||507|F|A|Little Rascals|Pre-Teen Blue|||4294967295|Ballroom Extreme|4|04/15/2022 13:15|Heat 14|Team events|Pre-Teen Show Dance||AC-Y|2|18,|
+M|A|Ballroom|Extreme|||507|F|A|White Fabulous|Pre-Teen|||4294967295|Ballroom Extreme|4|04/15/2022 13:15|Heat 14|Team events|Pre-Teen Show Dance||AC-Y|4|18,|
+M|A|Ballroom|Extreme|||507|F|A|50's Swing|Pre-Teen Blue|||4294967295|Ballroom Extreme|4|04/15/2022 13:15|Heat 14|Team events|Pre-Teen Show Dance||AC-Y|3|18,|
+M|A|Extreme|Ballroom Dance|||372|F|A|Showcase|Youth|||4294967295|Extreme Ballroom Dance|4|04/15/2022 13:16|Heat 10|Team events|Youth Novelty Showdance||AC-Y|1|19,|
+M|A|Dance|Pacific|||500|F|A|Ladies|Cometition Team|||4294967295|Dance Pacific|4|04/15/2022 13:16|Heat 10|Team events|Youth Novelty Showdance||AC-Y|2|19,|
+M|A|Ballroom|Extreme|||507|F|A|Blue|Junior|||4294967295|Ballroom Extreme|4|04/15/2022 13:18|Heat 15|Team events|Junior Latin Medley||AC-Y|3|20,|
+M|A|Island|Style|||540|F|A|B|Junior|||4294967295|Island Style|4|04/15/2022 13:18|Heat 15|Team events|Junior Latin Medley||AC-Y|4|20,|
+M|A|Island|Style|||543|F|A|Junior|A|||4294967295|Island Style|4|04/15/2022 13:18|Heat 15|Team events|Junior Latin Medley||AC-Y|2|20,|
+M|A|Ballroom|Extreme|||507|F|A|Gold|Junior|||4294967295|Ballroom Extreme|4|04/15/2022 13:18|Heat 15|Team events|Junior Latin Medley||AC-Y|1|20,|
+M|A|Ballroom|Extreme|||507|F|A|Gold|Pre-teen|||4294967295|Ballroom Extreme|4|04/15/2022 13:20|Heat 6|Team events|Pre-Teen Ballroom Medley||AC-Y|1|21,|
+M|A|Island|Style|||541|F|A|Pre|Teen|||4294967295|Island Style|4|04/15/2022 13:20|Heat 6|Team events|Pre-Teen Ballroom Medley||AC-Y|2|21,|
+M|A|Extreme|Ballroom|||374|F|A|Gold|Youth|||4294967295|Extreme Ballroom|4|04/15/2022 13:22|Heat 7|Team events|Youth Latin Show Dance||AC-Y|2|22,|
+M|A|Star Struck|Ballroom|||375|F|A|Fred|Lee|||4294967295|Star Struck Ballroom|4|04/15/2022 13:22|Heat 7|Team events|Youth Latin Show Dance||AC-Y|4|22,|
+M|A|Dance|Pacific|||500|F|A|Ladies|Cometition Team|||4294967295|Dance Pacific|4|04/15/2022 13:22|Heat 7|Team events|Youth Latin Show Dance||AC-Y|3|22,|
+M|A|Island|Style|||538|F|A|Youth|A|||4294967295|Island Style|4|04/15/2022 13:22|Heat 7|Team events|Youth Latin Show Dance||AC-Y|1|22,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|2|25,28,|
+M|A|Samuel|Birch|||382|F|A|Summer|Andersen|||4294967295|Extreme|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|4|25,28,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Sam|Gifford|||430|F|A|Mary|Gottfredson|||4294967295|Dance Island Style|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Colton|Mann|||485|F|A|Isabella|Oates|||4294967295|-|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|3|25,28,|
+M|A|Austin|Orme|||499|F|A|Claire|Black|||4294967295|-|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Spencer|Palmer|||501|F|A|Emmy|Wilder|||4294967295|Spencer Palmer|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|5|25,28,|
+M|A|Ashton|Reilley|||511|F|A|Lucy|Wilder|||4294967295|Ashton Reilley|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|1|25,28,|
+M|A|Nathan|Tolman|||546|F|A|Nicole|Tolman|||4294967295|Extreme|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|6|25,28,|
+M|A|Bryant|Wiblin|||558|F|A|Britnee|Belnap|||4294967295|Extreme|5|04/15/2022 14:30|Heat 16|Individual Events|Elementary Syllabus Intl. PasoDoble||AC-Y|SEMIFINAL|25,|
+M|A|Daniel|Black|||385|F|A|Marley|Meikle|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|DJ|Carney|||397|F|A|Kaydence|Hart|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Kaden|Duffield|||411|F|A|Lana|Brantley|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Chase|Felker|||416|F|A|Chance|Felker|||4294967295|Premier |5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|2|24,27,31,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|4|24,27,31,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|5|24,27,31,|
+M|A|Dominik|Kawamura|||465|F|A|Kaiya|Haws|||4294967295|Dominik Kawamura|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Lucas|Lamph|||472|F|A|Lydia|Williams|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|3|24,27,31,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|John|Leanard|||475|F|A|Lexie|Poliski|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Jack|Parrott|||503|F|A|Khylee|Lockett|||4294967295|Pacific|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Jacob|Perkins|||505|F|A|Isabelle|George|||4294967295|Dance Island Style|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Jase|Poliski|||506|F|A|Sadie|Erikson|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Cameron|Robertson|||516|F|A|Hannah|Leonard|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Kaleb|Sargent|||521|F|A|Remington|Permann|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|Jaydon|Sucher|||544|F|A|Camille|Randall|||4294967295|Extreme|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|1|24,27,31,|
+M|A|Sam|Turner|||549|F|A|Lilly|Murdock|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Will|Whitaker|||557|F|A|Emma|Guinn|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|QUARTERFINAL|24,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|6|24,27,31,|
+M|A|Gentleman|WriteInAm602|||602|F|A|Lady|WriteInAm602|||4294967295|-|5|04/15/2022 14:38|Heat 17|Individual Events|High School Int Latin Samba||AC-Y|SEMIFINAL|24,27,|
+M|A|Daniel|Black|||385|F|A|Brinkley|Newell|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|8|23,26,29,32,|
+M|A|DJ|Carney|||397|F|A|Kaydence|Hart|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Parker|Croad|||401|F|A|Grace|Bradshaw|||4294967295|Dance Island Style|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Kaden|Duffield|||411|F|A|Lana|Brantley|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|QUARTERFINAL|23,26,|
+M|A|John|Dunn|||413|F|A|Gracelynn|Kim|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|3|23,26,29,32,|
+M|A|Benjamin|Gibson|||429|F|A|Amelia|Quigley|||4294967295|Dance Island Style|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Kyl|Gines|||433|F|A|Liberty|Andersen|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|1|23,26,29,32,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|6|23,26,29,32,|
+M|A|Jacob|Jenkins|||460|F|A|Avonlea|Jenkins|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Levi|Kearsley|||466|F|A|Chelsea|Hegsted|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|QUARTERFINAL|23,26,|
+M|A|Sterling|Mann|||484|F|A|Sara|Dobson|||4294967295|Dance Island Style|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|ROUND 1|23,|
+M|A|Jase|Poliski|||506|F|A|Annie|Benson|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Kaleb|Sargent|||521|F|A|Remington|Permann|||4294967295|Extreme|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|QUARTERFINAL|23,26,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|2|23,26,29,32,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|4|23,26,29,32,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|5|23,26,29,32,|
+M|A|Sam|Turner|||549|F|A|Lilly|Murdock|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|SEMIFINAL|23,26,29,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|QUARTERFINAL|23,26,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|5|04/15/2022 14:49|Heat 18|Individual Events|Junior High Int Latin Rumba||AC-Y|7|23,26,29,32,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|5|04/15/2022 15:09|Heat 19|Individual Events|Pre-Teen Open Latin||AC-Y|1|30,|
+M|A|Kaleb|Call|||393|F|A|Eve|Cowen|||4294967295|-|5|04/15/2022 15:09|Heat 19|Individual Events|Pre-Teen Open Latin||AC-Y|3|30,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|5|04/15/2022 15:09|Heat 19|Individual Events|Pre-Teen Open Latin||AC-Y|2|30,|
+M|A|Daniel|Black|||385|F|A|Marley|Meikle|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|7|34,36,39,|
+M|A|DJ|Carney|||397|F|A|Claire|Belnap|||4294967295|Extreme|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Kaden|Duffield|||411|F|A|Allie|Heath|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|4|34,36,39,|
+M|A|Carson|Elder|||414|F|A|Izabella|Tabatabaei|||4294967295|Dance Pacific|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Chase|Felker|||416|F|A|Chance|Felker|||4294967295|Premier |6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|John|Leanard|||475|F|A|Cloe|Houbart|||4294967295|Extreme|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Keagan|Orme|||498|F|A|Tayla|Pedersen|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Jack|Parrott|||503|F|A|Khylee|Lockett|||4294967295|Pacific|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|1|34,36,39,|
+M|A|Jacob|Perkins|||505|F|A|Isabelle|George|||4294967295|Dance Island Style|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|6|34,36,39,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|5|34,36,39,|
+M|A|Connor|Robison|||517|F|A|Sierra|Rial|||4294967295|Connor Robison|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Sam|Turner|||549|F|A|Remington|Permann|||4294967295|Extreme|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|QUARTERFINAL|34,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|SEMIFINAL|34,36,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|2|34,36,39,|
+M|A|Gentleman|WriteInAm602|||602|F|A|Lady|WriteInAm602|||4294967295|-|6|04/15/2022 15:30|Heat 20|Individual Events|High School Newcomer American Swing||AC-Y|3|34,36,39,|
+M|A|Scott|Andersen|||364|F|A|Brielle|Bosh|||4294967295|Extreme|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Samuel|Birch|||382|F|A|Nikelle|Hillman|||4294967295|Extreme|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Teagan|Gardner|||424|F|A|Emry|Meppen|||4294967295|Extreme|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|3|33,35,|
+M|A|Mason|Heal|||444|F|A|Brielle|Heal|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|1|33,35,|
+M|A|Kristopher|Nelson|||494|F|A|Lilyanna|Strickland|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Austin|Orme|||499|F|A|Sage|Robertson|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Spencer|Palmer|||501|F|A|Azure|Hawkins|||4294967295|Spencer Palmer|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Ashton|Reilley|||511|F|A|Lila|Jones|||4294967295|Ashton Reilley|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|2|33,35,|
+M|A|Christian|Sargent|||522|F|A|Sarah|Leonard|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|5|33,35,|
+M|A|Cooper|Sargent|||523|F|A|Frances|Peterson|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|JT|Shelby|||528|F|A|Hazel|Hawkins|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Andrew|Shelby|||529|F|A|Addy|Steffler|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|4|33,35,|
+M|A|Nathan|Tolman|||546|F|A|Izzy|Carney|||4294967295|Extreme|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|6|33,35,|
+M|A|Paxton|Velasquez|||553|F|A|Lilly|Mortensen|||4294967295|-|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Bryant|Wiblin|||558|F|A|Evangeline|Randall|||4294967295|Extreme|6|04/15/2022 15:40|Heat 21|Individual Events|Extreme Pre-teen White Swing||AC-Y|SEMIFINAL|33,|
+M|A|Scott|Andersen|||364|F|A|Brielle|Bosh|||4294967295|Extreme|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Samuel|Birch|||382|F|A|Nikelle|Hillman|||4294967295|Extreme|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|1|37,40,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|3|37,40,|
+M|A|Kristopher|Nelson|||494|F|A|Lilyanna|Strickland|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Austin|Orme|||499|F|A|Sage|Robertson|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Spencer|Palmer|||501|F|A|Azure|Hawkins|||4294967295|Spencer Palmer|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Ashton|Reilley|||511|F|A|Lila|Jones|||4294967295|Ashton Reilley|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|5|37,40,|
+M|A|Christian|Sargent|||522|F|A|Sarah|Leonard|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Cooper|Sargent|||523|F|A|Frances|Peterson|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|JT|Shelby|||528|F|A|Hazel|Hawkins|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|4|37,40,|
+M|A|Andrew|Shelby|||529|F|A|Addy|Steffler|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|6|37,40,|
+M|A|Nathan|Tolman|||546|F|A|Izzy|Carney|||4294967295|Extreme|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|2|37,40,|
+M|A|Paxton|Velasquez|||553|F|A|Lilly|Mortensen|||4294967295|-|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Bryant|Wiblin|||558|F|A|Emry|Meppen|||4294967295|Extreme|6|04/15/2022 15:49|Heat 22|Individual Events|Extreme Pre-Teen White Cha Cha||AC-Y|SEMIFINAL|37,|
+M|A|Daniel|Black|||385|F|A|Olivia|Weaver|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Andrew|Black|||386|F|A|Emily|Kearsley|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Adam|Call|||392|F|A|Mallory|Wilson|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|DJ|Carney|||397|F|A|Sierra|Rial|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Kaden|Duffield|||411|F|A|Lana|Brantley|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Casey|Duncan|||412|F|A|Maeli|Belnap|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Carson|Elder|||414|F|A|Izabella|Tabatabaei|||4294967295|Dance Pacific|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Chase|Felker|||416|F|A|Chance|Felker|||4294967295|Premier |7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Brandon|Fox|||423|F|A|Sara|Jackson|||4294967295|Dance Island Style|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|4|41,45,49,53,|
+M|A|Jacob|Gifford|||431|F|A|Maquel|Wittington|||4294967295|Dance Island Style|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|1|41,45,49,53,|
+M|A|Austin|Harper|||436|F|A|Annie|Benson|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Izzak|Hawkins|||443|F|A|Tahni|Smith|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|John|Leanard|||475|F|A|Cloe|Houbart|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Mathew|Lott|||479|F|A|Marley|Meikle|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Brandon|Myrup|||492|F|A|Paige|Robinson|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Tanner|Orme|||497|F|A|Kaydence|Hart|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Jack|Parrott|||503|F|A|Khylee|Lockett|||4294967295|Pacific|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Jase|Poliski|||506|F|A|Sadie|Erikson|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Teagan|Reilley|||510|F|A|Kaiya|Haws|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Connor|Robison|||517|F|A|London|Stoleworthy|||4294967295|Connor Robison|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Kaleb|Sargent|||521|F|A|Remington|Permann|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Austin|Shelby|||527|F|A|Iris|Marlowe|||4294967295|Bonneville High School|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Jaydon|Sucher|||544|F|A|Michelle|Worley|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|3|41,45,49,53,|
+M|A|Zach|Tolman|||547|F|A|Lexie|Poliski|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Sam|Turner|||549|F|A|Lilly|Murdock|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Will|Whitaker|||557|F|A|Emma|Guinn|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Jaxson|Wilder|||561|F|A|Mary|Randall|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|2|41,45,49,53,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|QUARTERFINAL|41,45,|
+M|A|Jake|Wood|||564|F|A|Ella|Taggart|||4294967295|Extreme|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|ROUND 1|41,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Gentleman|WriteInAm602|||602|F|A|Lady|WriteInAm602|||4294967295|-|7|04/15/2022 16:15|Heat 23|Individual Events|High School Int Ballroom Waltz||AC-Y|SEMIFINAL|41,45,49,|
+M|A|Logan|Benjamin|||380|F|A|Madeleine|Scattergood|||4294967295|Peak|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|4|42,46,50,54,|
+M|A|Samuel|Birch|||382|F|A|Lucy|Wilder|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Daniel|Black|||385|F|A|Olivia|Weaver|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Kainoa|Brantley|||388|F|A|Emily|Holyoak|||4294967295|Dance Island Style|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Adam|Call|||392|F|A|Mallory|Wilson|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|DJ|Carney|||397|F|A|Gracee|Haight|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|6|42,46,50,54,|
+M|A|Kaden|Duffield|||411|F|A|Lana|Brantley|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Teagan|Gardner|||424|F|A|Cambri|Kunde|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|2|42,46,50,54,|
+M|A|Jacob|Gifford|||431|F|A|Maquel|Wittington|||4294967295|Dance Island Style|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|1|42,46,50,54,|
+M|A|Kyl|Gines|||433|F|A|Liberty|Andersen|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Austin|Harper|||436|F|A|Annie|Benson|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Dominik|Kawamura|||465|F|A|Kaiya|Haws|||4294967295|Dominik Kawamura|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Levi|Kearsley|||466|F|A|Brinkley|Newell|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Austin|Orme|||499|F|A|Britnee|Belnap|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Spencer|Palmer|||501|F|A|Emmy|Wilder|||4294967295|Spencer Palmer|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Connor|Robison|||517|F|A|Kaydence|Hart|||4294967295|Connor Robison|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Kaleb|Sargent|||521|F|A|Chelsea|Hegsted|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Austin|Shelby|||527|F|A|Iris|Marlowe|||4294967295|Bonneville High School|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|SEMIFINAL|42,46,50,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|3|42,46,50,54,|
+M|A|Nathan|Tolman|||546|F|A|Claire|Black|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Sam|Turner|||549|F|A|Lilly|Murdock|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Bryant|Wiblin|||558|F|A|Evangeline|Randall|||4294967295|Extreme|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|ROUND 1|42,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|QUARTERFINAL|42,46,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|7|04/15/2022 16:38|Heat 24|Individual Events|Junior High Int Ballroom Quickstep||AC-Y|5|42,46,50,54,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|1|43,|
+M|A|Malek|Haslam|||438|F|A|Yamanic|Haslam|||4294967295|BYU|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|4|43,|
+M|A|Kimball|Palmer|||502|F|A|Avery|Tolman|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|6|43,|
+M|A|Christian|Sargent|||522|F|A|Madison|Hare|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|5|43,|
+M|A|Cooper|Sargent|||523|F|A|Andrea|Orgil|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|3|43,|
+M|A|Daniel|Snow|||535|F|A|Karly|Winterton|||4294967295|Dance Island Style|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|2|43,|
+M|A|Teegan|Steffler|||536|F|A|Parker|Robinson|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|8|43,|
+M|A|Paxton|Velasquez|||553|F|A|Macey|Lewis|||4294967295|-|7|04/15/2022 17:01|Heat 25|Individual Events|PeeWee Syllabus ChaCha||AC-Y|7|43,|
+M|A|Kimball|Palmer|||502|F|A|Avery|Tolman|||4294967295|-|7|04/15/2022 17:05|Heat TBD|Individual Events|Mini Cha Cha||AC-Y|3|38,|
+M|A|Christian|Sargent|||522|F|A|Everly|Hare|||4294967295|-|7|04/15/2022 17:05|Heat TBD|Individual Events|Mini Cha Cha||AC-Y|1|38,|
+M|A|Cooper|Sargent|||523|F|A|Lizzie|James|||4294967295|-|7|04/15/2022 17:05|Heat TBD|Individual Events|Mini Cha Cha||AC-Y|2|38,|
+M|A|Paxton|Velasquez|||553|F|A|Oakley|Volmer|||4294967295|-|7|04/15/2022 17:05|Heat TBD|Individual Events|Mini Cha Cha||AC-Y|4|38,|
+M|A|Scott|Andersen|||364|F|A|Britnee|Belnap|||4294967295|Extreme|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Samuel|Birch|||382|F|A|Summer|Andersen|||4294967295|Extreme|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Kaleb|Call|||393|F|A|Eve|Cowen|||4294967295|-|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|5|44,52,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|2|44,52,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Levi|Kearsley|||466|F|A|Brinkley|Newell|||4294967295|-|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|6|44,52,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|3|44,52,|
+M|A|Colin|Nield|||495|F|A|Nora|Rynearson|||4294967295|Pacific|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Austin|Orme|||499|F|A|Claire|Black|||4294967295|-|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Spencer|Palmer|||501|F|A|Emmy|Wilder|||4294967295|Spencer Palmer|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Ashton|Reilley|||511|F|A|Cambri|Kunde|||4294967295|Ashton Reilley|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|1|44,52,|
+M|A|Nathan|Tolman|||546|F|A|Nicole|Tolman|||4294967295|Extreme|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|4|44,52,|
+M|A|Bryant|Wiblin|||558|F|A|Lucy|Wilder|||4294967295|Extreme|7|04/15/2022 17:07|Heat 26|Individual Events|Elementary Syllabus Intl. Quickstep||AC-Y|SEMIFINAL|44,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|7|04/15/2022 17:15|Heat 27|Individual Events|Pre-Teen Open Ballroom||AC-Y|1|55,|
+M|A|Malek|Haslam|||438|F|A|Andromeda|Haslam|||4294967295|BYU|7|04/15/2022 17:15|Heat 27|Individual Events|Pre-Teen Open Ballroom||AC-Y|2|55,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|7|04/15/2022 17:15|Heat 27|Individual Events|Pre-Teen Open Ballroom||AC-Y|3|55,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|1|47,51,|
+M|A|William|Gerlach|||428|F|A|Tessa|Libutti|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|2|47,51,|
+M|A|Malek|Haslam|||438|F|A|Yamanic|Haslam|||4294967295|BYU|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|SEMIFINAL|47,|
+M|A|Nash|Nowlen|||496|F|A|Leinani|Metler|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|SEMIFINAL|47,|
+M|A|Kimball|Palmer|||502|F|A|Avery|Tolman|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|SEMIFINAL|47,|
+M|A|Christian|Sargent|||522|F|A|Madison|Hare|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|4|47,51,|
+M|A|Cooper|Sargent|||523|F|A|Andrea|Orgil|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|5|47,51,|
+M|A|Daniel|Snow|||535|F|A|Karly|Winterton|||4294967295|Dance Island Style|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|6|47,51,|
+M|A|Teegan|Steffler|||536|F|A|Parker|Robinson|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|SEMIFINAL|47,|
+M|A|Paxton|Velasquez|||553|F|A|Macey|Lewis|||4294967295|-|7|04/15/2022 17:21|Heat 28|Individual Events|PeeWee Syllabus Swing||AC-Y|3|47,51,|
+M|A|Kimball|Palmer|||502|F|A|Shawni|Andersen|||4294967295|-|7|04/15/2022 17:24|Heat TBD|Individual Events|Mini Swing||AC-Y|3|48,|
+M|A|Christian|Sargent|||522|F|A|Everly|Hare|||4294967295|-|7|04/15/2022 17:24|Heat TBD|Individual Events|Mini Swing||AC-Y|1|48,|
+M|A|Cooper|Sargent|||523|F|A|Lizzie|James|||4294967295|-|7|04/15/2022 17:24|Heat TBD|Individual Events|Mini Swing||AC-Y|2|48,|
+M|A|Teegan|Steffler|||536|F|A|Aspen|Volmer|||4294967295|-|7|04/15/2022 17:24|Heat TBD|Individual Events|Mini Swing||AC-Y|5|48,|
+M|A|Paxton|Velasquez|||553|F|A|Oakley|Volmer|||4294967295|-|7|04/15/2022 17:24|Heat TBD|Individual Events|Mini Swing||AC-Y|4|48,|
+M|A|Extreme|Ballroom Dance|||372|F|A|Showcase|Youth|||4294967295|Extreme Ballroom Dance|8|04/15/2022 18:30|Heat 29|Team events|Youth Cabaret Showdance||AC-Y|3|56,|
+M|A|Pasific|Dance|||407|F|A|Youth|Caberet|||4294967295|Pasific Dance|8|04/15/2022 18:30|Heat 29|Team events|Youth Cabaret Showdance||AC-Y|1|56,|
+M|A|Island|Style|||542|F|A|Youth|Cabaret|||4294967295|Island Style|8|04/15/2022 18:30|Heat 29|Team events|Youth Cabaret Showdance||AC-Y|2|56,|
+M|A|Utah Dream|Dance Team|||406|F|A|Haslam|Naomi|||4294967295|Utah Dream Dance Team|8|04/15/2022 18:31|Heat 30|Team events|Junior Showdance||AC-Y|1|57,|
+M|A|Ballroom|Extreme|||507|F|A|Prince of Egypt|Junior White|||4294967295|Ballroom Extreme|8|04/15/2022 18:31|Heat 30|Team events|Junior Showdance||AC-Y|2|57,|
+M|A|Eli|Anderson|||365|F|A|Phoebe|Randall|||4294967295|Extreme Ballroom|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|SEMIFINAL|58,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|SEMIFINAL|58,|
+M|A|Camden|Cutler|||403|F|A|Kai|Chantry|||4294967295|BYU Youth|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|SEMIFINAL|58,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|5|58,62,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|SEMIFINAL|58,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|4|58,62,|
+M|A|Matthew|Holyoak|||450|F|A|Olivia|Cowan|||4294967295|-|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|1|58,62,|
+M|A|Casey|Ingo|||457|F|A|Sarah|Oates|||4294967295|-|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|2|58,62,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|6|58,62,|
+M|A|Paulo|Siller|||532|F|A|Isabella|Siller|||4294967295|BYU Youth|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|SEMIFINAL|58,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|9|04/15/2022 19:00|Heat 31|Individual Events|Junior Pre-Champ Ballroom||AC-Y|3|58,62,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|SEMIFINAL|59,61,|
+M|A|Bryson|Brown|||390|F|A|BryAna|Tirrell|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|3|59,61,63,|
+M|A|Lucas|Fletcher|||422|F|A|Kiara|Mecham|||4294967295|Dance Pacific|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|SEMIFINAL|59,61,|
+M|A|Eric|Hassel|||441|F|A|Sarah|Hassell|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Isaac|Hassel|||442|F|A|Jaynie|Bly|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Tyran|Heaton|||446|F|A|Kelley|Miles|||4294967295|Peak|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Ben|Huber|||454|F|A|Madelyn|Young|||4294967295|Extreme|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|6|59,61,63,|
+M|A|Mason|Hunt|||456|F|A|Corynn|Elizardo|||4294967295|Dance Pacific|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|SEMIFINAL|59,61,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|4|59,61,63,|
+M|A|Bentley|Reynolds|||512|F|A|Talyn|Egbert|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|2|59,61,63,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|QUARTERFINAL|59,|
+M|A|Garrett|Shippen|||531|F|A|Cambree|Hathaway|||4294967295|Extreme|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|5|59,61,63,|
+M|A|Ethan|Snow|||534|F|A|Laura|Stirland|||4294967295|-|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|1|59,61,63,|
+M|A|Issac|Weaver|||554|F|A|Lily|Wall|||4294967295|Extreme|9|04/15/2022 19:10|Heat 32|Individual Events|Adult Pre-Champ Ballroom||AC-Y|SEMIFINAL|59,61,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|2|60,64,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|6|60,64,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|SEMIFINAL|60,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|SEMIFINAL|60,|
+M|A|Matthew|Holyoak|||450|F|A|Olivia|Cowan|||4294967295|-|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|1|60,64,|
+M|A|Casey|Ingo|||457|F|A|Sarah|Oates|||4294967295|-|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|5|60,64,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|SEMIFINAL|60,|
+M|A|Paulo|Siller|||532|F|A|Isabella|Siller|||4294967295|BYU Youth|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|4|60,64,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|9|04/15/2022 19:37|Heat 33|Individual Events|Junior Open Ballroom||AC-Y|3|60,64,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Will|Bare|||376|F|A|Jayna|Koyle|||4294967295|IBA|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Andrew|Black|||386|F|A|Madi|Hawks|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Braydon|Dahlke|||405|F|A|Miriam|Ray|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|2|66,68,69,|
+M|A|Dantes|Haslam|||439|F|A|Vanessa|Rich|||4294967295|BYU|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Travian|Haslam|||440|F|A|Bella|Siller|||4294967295|BYU|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Izzak|Hawkins|||443|F|A|Madelyn|Young|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Landon|Heal|||445|F|A|Anna|Bryant|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Carter|Hooper|||452|F|A|Carlee|Hathaway|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|6|66,68,69,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Lucas|Lamph|||472|F|A|Lydia|Williams|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|5|66,68,69,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|1|66,68,69,|
+M|A|Brian|Lowe|||481|F|A|Sarah|Wilson|||4294967295|Peak|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|3|66,68,69,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|4|66,68,69,|
+M|A|Noah|Scribner|||525|F|A|Sophia|Ruiz|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Garrett|Shippen|||531|F|A|Ella|Taggart|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|SEMIFINAL|66,68,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Jaxson|Wilder|||561|F|A|Reo|Cash|||4294967295|Extreme|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Jacob|Wood|||565|F|A|Lily|Wall|||4294967295|-|10|04/15/2022 20:15|Heat 34|Individual Events|Youth Pre-Champ Smooth||AC-Y|QUARTERFINAL|66,|
+M|A|Eli|Anderson|||365|F|A|Phoebe|Randall|||4294967295|Extreme Ballroom|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|4|65,67,70,|
+M|A|Kainoa|Brantley|||388|F|A|Emily|Holyoak|||4294967295|Dance Island Style|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Adam|Call|||392|F|A|Mallory|Wilson|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|5|65,67,70,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Jacob|Gifford|||431|F|A|Olivia|Cowan|||4294967295|Dance Island Style|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|3|65,67,70,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Matthew|Holyoak|||450|F|A|Brooke|Ackley|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|2|65,67,70,|
+M|A|Casey|Ingo|||457|F|A|Sarah|Oates|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|6|65,67,70,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Josiah|Randall|||509|F|A|Reo|Cash|||4294967295|Extreme|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Malachi|Ruebush|||513|F|A|Rebecca|Gwilliam|||4294967295|IBA|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|1|65,67,70,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|10|04/15/2022 20:52|Heat 35|Individual Events|Junior Open Latin||AC-Y|ROUND 3|67,|
+M|A|Bentley|Reynolds|||512|F|A|Talyn|Egbert|||4294967295|-|10|04/15/2022 21:37|Heat 36|Individual Events|Adult Open Ballroom||AC-Y|-|-|
+M|A|Ethan|Snow|||534|F|A|Laura|Stirland|||4294967295|-|10|04/15/2022 21:37|Heat 36|Individual Events|Adult Open Ballroom||AC-Y|-|-|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Jason|Beckstrand|||378|F|A|Raelym|Sharp|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Tyler|Bell|||379|F|A|Elyza|Lester|||4294967295|The Dance Shoppe|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Adam|Benson|||381|F|A|Summer|Benson|||4294967295|BYU|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|4|71,73,76,|
+M|A|Brayden|Bird|||384|F|A|Rosemary|Bailey|||4294967295|Gio Danceworld|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Andrew|Black|||386|F|A|Mary|Randall|||4294967295|Extreme|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Eric|Bregg|||389|F|A|Nichole|Mendez|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Parker|Christensen|||400|F|A|Rachel|Lemmon|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Casey|Duncan|||412|F|A|Madelyn|Young|||4294967295|Extreme|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|6|71,73,76,|
+M|A|Shanden|Hoffman|||449|F|A|Sabrina|Hoffman|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|1|71,73,76,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Ethan|Jones|||462|F|A|Aminadi|White|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Christian|Jones|||463|F|A|Sarah|Radford|||4294967295|UVU|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|5|71,73,76,|
+M|A|Jamison|Koyle|||469|F|A|Jayna|Koyle|||4294967295|IBA|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Sam|Lamph|||473|F|A|Gloria|Zentz|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Anthony|Lott|||478|F|A|Cambree|Hathaway|||4294967295|Extreme|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|3|71,73,76,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Tristan|Moe|||491|F|A|Kelli|Ripplinger|||4294967295|BYU|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Matthew|Raillison|||508|F|A|Zaida|Adams|||4294967295|BYU|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|2|71,73,76,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Brady|Rustad|||518|F|A|Meghan|Christensen|||4294967295|Dance Island Style|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Ethan|Snow|||534|F|A|Nina|Adams|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|QUARTERFINAL|71,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|11|04/16/2022 08:00|Heat 37|Individual Events|Adult Pre-Champ Latin||AC-Y|SEMIFINAL|71,73,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|5|72,74,77,|
+M|A|Mason|Carter|||399|F|A|Darby Jo|Hart|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Hayden|Hansen|||435|F|A|Parker|Cash|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Izzak|Hawkins|||443|F|A|Lily|Wall|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Carter|Hooper|||452|F|A|Carlee|Hathaway|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|4|72,74,77,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Jamison|Koyle|||469|F|A|Jayna|Koyle|||4294967295|IBA|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|1|72,74,77,|
+M|A|Joshua|McCubbun|||488|F|A|Julie|Slater|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|3|72,74,77,|
+M|A|Brandon|Myrup|||492|F|A|Madi|Hawks|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Malachi|Ruebush|||513|F|A|Rebecca|Gwilliam|||4294967295|IBA|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|6|72,74,77,|
+M|A|Ryker|Searle|||526|F|A|Paige|Robinson|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|SEMIFINAL|72,74,|
+M|A|Garrett|Shippen|||531|F|A|Ella|Taggart|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|2|72,74,77,|
+M|A|Jaxson|Wilder|||561|F|A|Brinley|Arnold|||4294967295|Extreme|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Jacob|Wood|||565|F|A|Hadley|Hawkins|||4294967295|-|11|04/16/2022 08:59|Heat 38|Individual Events|Youth Open Latin||AC-Y|QUARTERFINAL|72,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|11|04/16/2022 10:02|Heat 39|Individual Events|Junior Open Rhythm||AC-Y|1|75,|
+M|A|Malek|Haslam|||438|F|A|Andromeda|Haslam|||4294967295|BYU|11|04/16/2022 10:02|Heat 39|Individual Events|Junior Open Rhythm||AC-Y|2|75,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Bryson|Brown|||390|F|A|BryAna|Tirrell|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Mason|Carter|||399|F|A|Darby Jo|Hart|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|8|82,85,|
+M|A|Aidan|Ferguson|||418|F|A|Paige|Miller|||4294967295|Aidan Ferguson|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|4|82,85,|
+M|A|Eric|Hassel|||441|F|A|Sarah|Hassell|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Ethan|Jones|||462|F|A|Hannah|Sweat|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|5|82,85,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|2|82,85,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|1|82,85,|
+M|A|Joshua|McCubbun|||488|F|A|Hannah|Barzee|||4294967295|Extreme|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|6|82,85,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Cameron|Robertson|||516|F|A|Hannah|Leonard|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|SEMIFINAL|82,|
+M|A|Brady|Rustad|||518|F|A|Kate|Koski|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|3|82,85,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|12|04/16/2022 08:45|Heat 40|Individual Events|Adult Novice Ballroom||AC-Y|7|82,85,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|1|79,83,86,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|James|Fawcett|||415|F|A|Emily|Call|||4294967295|Dance Island Style|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|Lucas|Fletcher|||422|F|A|Kiara|Mecham|||4294967295|Dance Pacific|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Abram|Greenfield|||434|F|A|Vanessa|Rich|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Carter|Hooper|||452|F|A|Brinley|Arnold|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|4|79,83,86,|
+M|A|Ben|Huber|||454|F|A|Madelyn|Young|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|5|79,83,86,|
+M|A|Mason|Hunt|||456|F|A|Corynn|Elizardo|||4294967295|Dance Pacific|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|Ethan|Jones|||462|F|A|Hannah|Sweat|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|2|79,83,86,|
+M|A|Brian|Lowe|||481|F|A|Sarah|Wilson|||4294967295|Peak|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|3|79,83,86,|
+M|A|Joshua|McCubbun|||488|F|A|Hannah|Barzee|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Brady|Rustad|||518|F|A|Kate|Koski|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Jacob|Sapp|||519|F|A|Kate|Lewis|||4294967295|-|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|QUARTERFINAL|79,|
+M|A|Garrett|Shippen|||531|F|A|Cambree|Hathaway|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|SEMIFINAL|79,83,|
+M|A|Issac|Weaver|||554|F|A|Lily|Wall|||4294967295|Extreme|12|04/16/2022 09:02|Heat 41|Individual Events|Youth Open Ballroom||AC-Y|6|79,83,86,|
+M|A|Tyler|Bell|||379|F|A|Elyza|Lester|||4294967295|The Dance Shoppe|12|04/16/2022 09:56|Heat 42|Individual Events|Adult Open Rhythm||AC-Y|3|80,|
+M|A|Braydon|Dahlke|||405|F|A|Miriam|Ray|||4294967295|-|12|04/16/2022 09:56|Heat 42|Individual Events|Adult Open Rhythm||AC-Y|2|80,|
+M|A|Joshua|Luchs|||482|F|A|Ocean|Kwak|||4294967295|BYU|12|04/16/2022 09:56|Heat 42|Individual Events|Adult Open Rhythm||AC-Y|4|80,|
+M|A|Tristan|Moe|||491|F|A|Margaret|Safarova|||4294967295|BYU|12|04/16/2022 09:56|Heat 42|Individual Events|Adult Open Rhythm||AC-Y|1|80,|
+M|A|Scott|Andersen|||364|F|A|Summer|Andersen|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|7|78,81,84,|
+M|A|Samuel|Birch|||382|F|A|Cambri|Kunde|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|SEMIFINAL|78,81,|
+M|A|Kota|Cancilla|||394|F|A|Samantha|Alita|||4294967295|-|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|5|78,81,84,|
+M|A|Joaquin|Cancilla|||395|F|A|Avery|Facer|||4294967295|Dance Island Style|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|SEMIFINAL|78,81,|
+M|A|Anthony|Crosland|||402|F|A|Alexys|Denton|||4294967295|-|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Xan|Cutler|||404|F|A|Kamilah|Siller|||4294967295|BYU Youth|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Collin|Ferguson|||417|F|A|Kaisley|Matsuura|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|SEMIFINAL|78,81,|
+M|A|Eli|Fisher|||420|F|A|Sydney|Hill|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|7|78,81,84,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|6|78,81,84,|
+M|A|Sam|Gifford|||430|F|A|Mary|Gottfredson|||4294967295|Dance Island Style|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Wyatt|Lewis|||477|F|A|Sally|Rowley|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Colton|Mann|||485|F|A|Isabella|Oates|||4294967295|-|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|2|78,81,84,|
+M|A|Austin|Orme|||499|F|A|Britnee|Belnap|||4294967295|-|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|SEMIFINAL|78,81,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|SEMIFINAL|78,81,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|1|78,81,84,|
+M|A|Ashton|Reilley|||511|F|A|Emmy|Wilder|||4294967295|Ashton Reilley|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|4|78,81,84,|
+M|A|Daniel|Snow|||535|F|A|Karly|Winterton|||4294967295|Dance Island Style|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Nathan|Tolman|||546|F|A|Nicole|Tolman|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|3|78,81,84,|
+M|A|Bryant|Wiblin|||558|F|A|Claire|Black|||4294967295|Extreme|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Hyrum|Wiblin|||559|F|A|Sable|Reilley|||4294967295|-|12|04/16/2022 10:05|Heat 43|Individual Events|Elementary Syllabus Newcomer American Swing||AC-Y|QUARTERFINAL|78,|
+M|A|Ballroom|Extreme|||507|F|A|White|Junior team|||4294967295|Ballroom Extreme|13|04/16/2022 10:15|Heat TBD|Team events|Junior Showdance 2||AC-Y|3|88,|
+M|A|Island|Style|||537|F|A|B|Junior|||4294967295|Dance Island Style|13|04/16/2022 10:15|Heat TBD|Team events|Junior Showdance 2||AC-Y|2|88,|
+M|A|Island|Style|||543|F|A|Junior|Showdance|||4294967295|Island Style|13|04/16/2022 10:15|Heat TBD|Team events|Junior Showdance 2||AC-Y|1|88,|
+M|A|Extreme|Ball room|||371|F|A|Blue|Youth|||4294967295|Extreme Ball room|13|04/16/2022 10:16|Heat 44|Team events|Youth Latin Medley||AC-Y|3|89,|
+M|A|Extreme|Ballroom|||374|F|A|Gold|Youth|||4294967295|Extreme Ballroom|13|04/16/2022 10:16|Heat 44|Team events|Youth Latin Medley||AC-Y|1|89,|
+M|A|Island|Style|||537|F|A|Youth|B|||4294967295|Island Style |13|04/16/2022 10:16|Heat 44|Team events|Youth Latin Medley||AC-Y|4|89,|
+M|A|Island|Style|||538|F|A|Youth|A|||4294967295|Island Style|13|04/16/2022 10:16|Heat 44|Team events|Youth Latin Medley||AC-Y|2|89,|
+M|A|Extreme|Ball room|||371|F|A|Blue|Youth|||4294967295|Extreme Ball room|13|04/16/2022 10:18|Heat 45|Team events|Youth Ballroom Medley||AC-Y|4|87,|
+M|A|Extreme|Ballroom|||374|F|A|Gold|Youth|||4294967295|Extreme Ballroom|13|04/16/2022 10:18|Heat 45|Team events|Youth Ballroom Medley||AC-Y|1|87,|
+M|A|Island|Style|||537|F|A|Youth|B|||4294967295|Island Style |13|04/16/2022 10:18|Heat 45|Team events|Youth Ballroom Medley||AC-Y|3|87,|
+M|A|Island|Style|||538|F|A|Youth|A|||4294967295|Island Style|13|04/16/2022 10:18|Heat 45|Team events|Youth Ballroom Medley||AC-Y|2|87,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|14|04/16/2022 11:30|Heat 46|Individual Events|Junior Open Smooth||AC-Y|3|91,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|14|04/16/2022 11:30|Heat 46|Individual Events|Junior Open Smooth||AC-Y|1|91,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|14|04/16/2022 11:30|Heat 46|Individual Events|Junior Open Smooth||AC-Y|2|91,|
+M|A|Malek|Haslam|||438|F|A|Andromeda|Haslam|||4294967295|BYU|14|04/16/2022 11:37|Heat 47|Individual Events|Pre-teen Open American||AC-Y|-|-|
+M|A|Izzak|Hawkins|||443|F|A|Madelyn|Young|||4294967295|-|14|04/16/2022 11:44|Heat 48|Individual Events|Youth Lindy||AC-Y|5|90,|
+M|A|Anthony|Lott|||478|F|A|Oshyn|Christensen|||4294967295|Extreme|14|04/16/2022 11:44|Heat 48|Individual Events|Youth Lindy||AC-Y|1|90,|
+M|A|Malachi|Ruebush|||513|F|A|Rebecca|Gwilliam|||4294967295|IBA|14|04/16/2022 11:44|Heat 48|Individual Events|Youth Lindy||AC-Y|4|90,|
+M|A|Garrett|Shippen|||531|F|A|Parker|Cash|||4294967295|Extreme|14|04/16/2022 11:44|Heat 48|Individual Events|Youth Lindy||AC-Y|2|90,|
+M|A|Jacob|Wood|||565|F|A|Hadley|Hawkins|||4294967295|-|14|04/16/2022 11:44|Heat 48|Individual Events|Youth Lindy||AC-Y|3|90,|
+M|A|Logan|Benjamin|||380|F|A|Madeleine|Scattergood|||4294967295|Peak|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Daniel|Black|||385|F|A|Olivia|Weaver|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|DJ|Carney|||397|F|A|London|Stoleworthy|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Casey|Duncan|||412|F|A|Addison|Willis|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Carson|Elder|||414|F|A|Izabella|Tabatabaei|||4294967295|Dance Pacific|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Chase|Felker|||416|F|A|Chance|Felker|||4294967295|Premier |15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Aidan|Ferguson|||418|F|A|Marley|Meikle|||4294967295|Aidan Ferguson|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|5|92,95,98,101,|
+M|A|Logan|Fisher|||421|F|A|Fox|Katelyn|||4294967295|Peak|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Logan|Fisher|||421|F|A|Fox|Katelyn|||4294967295|Peak|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Jacob|Gifford|||431|F|A|Maquel|Wittington|||4294967295|Dance Island Style|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|1|92,95,98,101,|
+M|A|Austin|Harper|||436|F|A|Phoebe|Randall|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Dominik|Kawamura|||465|F|A|Lilly|Murdock|||4294967295|Dominik Kawamura|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|John|Leanard|||475|F|A|Annika|Harris|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Ryden|Lyon|||483|F|A|Tahni|Smith|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Joshua|McCubbun|||488|F|A|Hannah|Barzee|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Brandon|Myrup|||492|F|A|Michelle|Worley|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Keagan|Orme|||498|F|A|Sierra|Rial|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Jack|Parrott|||503|F|A|Khylee|Lockett|||4294967295|Pacific|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Jase|Poliski|||506|F|A|Sadie|Erikson|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Josiah|Randall|||509|F|A|Annie|Benson|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|3|92,95,98,101,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Cameron|Robertson|||516|F|A|Emily|Kearsley|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Connor|Robison|||517|F|A|Kaydence|Hart|||4294967295|Connor Robison|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Ryker|Searle|||526|F|A|Maeli|Belnap|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Sam|Turner|||549|F|A|Remington|Permann|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|2|92,95,98,101,|
+M|A|Issac|Weaver|||554|F|A|Paige|Robinson|||4294967295|Extreme|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|3|92,95,98,101,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|ROUND 1|92,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Garrison|Willis|||563|F|A|Addeisyn|Belnap|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|SEMIFINAL|92,95,98,|
+M|A|Gentleman|WriteInAm603|||603|F|A|Lady|WriteInAm603|||4294967295|-|15|04/16/2022 12:05|Heat TBD|Individual Events|High School American Foxtrot||AC-Y|QUARTERFINAL|92,95,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|1|93,96,103,|
+M|A|Will|Bare|||376|F|A|Jayna|Koyle|||4294967295|IBA|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Andrew|Black|||386|F|A|Madi|Hawks|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Braydon|Dahlke|||405|F|A|Miriam|Ray|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|2|93,96,103,|
+M|A|Izzak|Hawkins|||443|F|A|Madelyn|Young|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Carter|Hooper|||452|F|A|Carlee|Hathaway|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Jamison|Koyle|||469|F|A|Natsha|Brady|||4294967295|IBA|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|6|93,96,103,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|3|93,96,103,|
+M|A|Brian|Lowe|||481|F|A|Sarah|Wilson|||4294967295|Peak|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|5|93,96,103,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|4|93,96,103,|
+M|A|Noah|Scribner|||525|F|A|Sophia|Ruiz|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Garrett|Shippen|||531|F|A|Ella|Taggart|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|SEMIFINAL|93,96,|
+M|A|Jaxson|Wilder|||561|F|A|Reo|Cash|||4294967295|Extreme|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Jacob|Wood|||565|F|A|Lily|Wall|||4294967295|-|15|04/16/2022 12:28|Heat TBD|Individual Events|Youth Open Smooth||AC-Y|QUARTERFINAL|93,|
+M|A|Scott|Andersen|||364|F|A|Britnee|Belnap|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|1|94,97,100,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|4|94,97,100,|
+M|A|Samuel|Birch|||382|F|A|Summer|Andersen|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Anthony|Crosland|||402|F|A|Alexys|Denton|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Collin|Ferguson|||417|F|A|Sally|Rowley|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Eli|Fisher|||420|F|A|Sydney|Hill|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Sam|Gifford|||430|F|A|Mary|Gottfredson|||4294967295|Dance Island Style|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|6|94,97,100,|
+M|A|Levi|Kearsley|||466|F|A|Chelsea|Hegsted|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Wyatt|Lewis|||477|F|A|Kaisley|Matsuura|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Colton|Mann|||485|F|A|Isabella|Oates|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|2|94,97,100,|
+M|A|Austin|Orme|||499|F|A|Cambri|Kunde|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|5|94,97,100,|
+M|A|Ashton|Reilley|||511|F|A|Cambri|Kunde|||4294967295|Ashton Reilley|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|3|94,97,100,|
+M|A|Daniel|Snow|||535|F|A|Karly|Winterton|||4294967295|Dance Island Style|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Nathan|Tolman|||546|F|A|Nicole|Tolman|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|SEMIFINAL|94,97,|
+M|A|Bryant|Wiblin|||558|F|A|Emmy|Wilder|||4294967295|Extreme|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Hyrum|Wiblin|||559|F|A|Sable|Reilley|||4294967295|-|15|04/16/2022 13:11|Heat TBD|Individual Events|Elementary Syllabus ChaCha||AC-Y|QUARTERFINAL|94,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|3|99,102,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|5|99,102,|
+M|A|Hayden|Hansen|||435|F|A|Parker|Cash|||4294967295|Extreme|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|6|99,102,|
+M|A|Isaac|Hassel|||442|F|A|Jaynie|Bly|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|SEMIFINAL|99,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|SEMIFINAL|99,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|2|99,102,|
+M|A|Connor|Millet|||489|F|A|Rachel|Lemmon|||4294967295|BYU|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|1|99,102,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|SEMIFINAL|99,|
+M|A|Jaxson|Wilder|||561|F|A|Reo|Cash|||4294967295|Extreme|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|SEMIFINAL|99,|
+M|A|Jacob|Wood|||565|F|A|Lily|Wall|||4294967295|-|15|04/16/2022 13:22|Heat TBD|Individual Events|Adult Novice Smooth||AC-Y|4|99,102,|
+M|A|Eli|Anderson|||365|F|A|TaVerie|Huston|||4294967295|Extreme Ballroom|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|1|106,109,112,115,|
+M|A|Logan|Benjamin|||380|F|A|Madeleine|Scattergood|||4294967295|Peak|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|SEMIFINAL|106,109,112,|
+M|A|Daniel|Black|||385|F|A|Brinkley|Newell|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|7|106,109,112,115,|
+M|A|DJ|Carney|||397|F|A|Sierra|Rial|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|SEMIFINAL|106,109,112,|
+M|A|Kaden|Duffield|||411|F|A|Allie|Heath|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Casey|Duncan|||412|F|A|Addison|Willis|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Carson|Elder|||414|F|A|Izabella|Tabatabaei|||4294967295|Dance Pacific|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Aidan|Ferguson|||418|F|A|Marley|Meikle|||4294967295|Aidan Ferguson|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Hayden|Hansen|||435|F|A|Camille|Randall|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|SEMIFINAL|106,109,112,|
+M|A|Austin|Harper|||436|F|A|Phoebe|Randall|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|5|106,109,112,115,|
+M|A|Carter|Hooper|||452|F|A|Brinley|Arnold|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|2|106,109,112,115,|
+M|A|Ben|Huber|||454|F|A|Tahni|Smith|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Dominik|Kawamura|||465|F|A|Lilly|Murdock|||4294967295|Dominik Kawamura|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Anthony|Lott|||478|F|A|Olivia|Fleming|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Sterling|Mann|||484|F|A|Sara|Dobson|||4294967295|Dance Island Style|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Joshua|McCubbun|||488|F|A|Julie|Slater|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|SEMIFINAL|106,109,112,|
+M|A|Brandon|Myrup|||492|F|A|Hadley|Hawkins|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Jack|Parrott|||503|F|A|Khylee|Lockett|||4294967295|Pacific|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Jacob|Perkins|||505|F|A|Isabelle|George|||4294967295|Dance Island Style|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Josiah|Randall|||509|F|A|Annie|Benson|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|3|106,109,112,115,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Ashton|Reilley|||511|F|A|Claire|Black|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Cameron|Robertson|||516|F|A|Hannah|Leonard|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Connor|Robison|||517|F|A|Tayla|Pedersen|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Garrett|Shippen|||531|F|A|Emily|Kearsley|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Jaydon|Sucher|||544|F|A|Grace|Osai|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|6|106,109,112,115,|
+M|A|Zach|Tolman|||547|F|A|Paige|Robinson|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Sam|Turner|||549|F|A|Remington|Permann|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Issac|Weaver|||554|F|A|Mary|Randall|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Jaxson|Wilder|||561|F|A|Carlee|Hathaway|||4294967295|Extreme|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|8|106,109,112,115,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Garrison|Willis|||563|F|A|Reo|Cash|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|QUARTERFINAL|106,109,|
+M|A|Jacob|Wood|||565|F|A|Lexie|Poliski|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|ROUND 1|106,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|4|106,109,112,115,|
+M|A|Gentleman|WriteInAm602|||602|F|A|Lady|WriteInAm602|||4294967295|-|17|04/16/2022 14:45|Heat 49|Individual Events|High School  Cha Cha||AC-Y|SEMIFINAL|106,109,112,|
+M|A|Scott|Andersen|||364|F|A|Josie|Hill|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Eli|Anderson|||365|F|A|TaVerie|Huston|||4294967295|Extreme Ballroom|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|1|107,110,113,116,|
+M|A|David|Arnson|||366|F|A|Haley|Dye|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|2|107,110,113,116,|
+M|A|Logan|Benjamin|||380|F|A|Madeleine|Scattergood|||4294967295|Peak|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Samuel|Birch|||382|F|A|Avery|Spaulding|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Daniel|Black|||385|F|A|Brinkley|Newell|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|DJ|Carney|||397|F|A|Kaydence|Hart|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Kaden|Duffield|||411|F|A|Lana|Brantley|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|John|Dunn|||413|F|A|Gracelynn|Kim|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Eli|Fisher|||420|F|A|Marley|Meikle|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Brandon|Fox|||423|F|A|Sara|Jackson|||4294967295|Dance Island Style|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Austin|Harper|||436|F|A|Phoebe|Randall|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|4|107,110,113,116,|
+M|A|Dominik|Kawamura|||465|F|A|Lilly|Murdock|||4294967295|Dominik Kawamura|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Levi|Kearsley|||466|F|A|Remington|Permann|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Wyatt|Lewis|||477|F|A|Kaisley|Matsuura|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Mathew|Lott|||479|F|A|Elyse|Fisher|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Sterling|Mann|||484|F|A|Sara|Dobson|||4294967295|Dance Island Style|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Keagan|Orme|||498|F|A|Claire|Belnap|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Austin|Orme|||499|F|A|Britnee|Belnap|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Abram|Peay|||504|F|A|Desi|Winterton|||4294967295|Dance Island Style|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Jase|Poliski|||506|F|A|Annie|Benson|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Ashton|Reilley|||511|F|A|Claire|Black|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Connor|Robison|||517|F|A|Gracee|Haight|||4294967295|Connor Robison|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Austin|Shelby|||527|F|A|Iris|Marlowe|||4294967295|Bonneville High School|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|SEMIFINAL|107,110,113,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|5|107,110,113,116,|
+M|A|Nathan|Tolman|||546|F|A|Cambri|Kunde|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Sam|Turner|||549|F|A|Chelsea|Hegsted|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|QUARTERFINAL|107,110,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Bryant|Wiblin|||558|F|A|Emmy|Wilder|||4294967295|Extreme|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Hyrum|Wiblin|||559|F|A|Sally|Rowley|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Garrison|Willis|||563|F|A|Reo|Cash|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Daines|Yaw|||566|F|A|Gabriella|Gibson|||4294967295|Dance Island Style|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|ROUND 1|107,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|17|04/16/2022 15:08|Heat 50|Individual Events|Junior High Cha Cha||AC-Y|3|107,110,113,116,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|Jason|Beckstrand|||378|F|A|Raelym|Sharp|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Tyler|Bell|||379|F|A|Elyza|Lester|||4294967295|The Dance Shoppe|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Breadon|Bird|||383|F|A|Emeila|Bare|||4294967295|Bonneville High School|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Brayden|Bird|||384|F|A|Rosemary|Bailey|||4294967295|Gio Danceworld|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Andrew|Black|||386|F|A|Mary|Randall|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|Eric|Bregg|||389|F|A|Nichole|Mendez|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|6|105,108,111,114,|
+M|A|Mason|Carter|||399|F|A|Darby Jo|Hart|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Parker|Christensen|||400|F|A|Rachel|Lemmon|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|5|105,108,111,114,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|Casey|Duncan|||412|F|A|Madelyn|Young|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Aidan|Ferguson|||418|F|A|Paige|Miller|||4294967295|Aidan Ferguson|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Hayden|Hansen|||435|F|A|Parker|Cash|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Izzak|Hawkins|||443|F|A|Lily|Wall|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Matthew|Jenkins|||461|F|A|Taia|Scholle|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Ethan|Jones|||462|F|A|Aminadi|White|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Sam|Lamph|||473|F|A|Gloria|Zentz|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Anthony|Lott|||478|F|A|Cambree|Hathaway|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|3|105,108,111,114,|
+M|A|Ryden|Lyon|||483|F|A|Tahni|Smith|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|4|105,108,111,114,|
+M|A|Joshua|McCubbun|||488|F|A|Julie|Slater|||4294967295|Extreme|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Damion|Mitchell|||490|F|A|BryAna|Tirrell|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Tristan|Moe|||491|F|A|Kelli|Ripplinger|||4294967295|BYU|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|2|105,108,111,114,|
+M|A|Matthew|Raillison|||508|F|A|Zaida|Adams|||4294967295|BYU|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|1|105,108,111,114,|
+M|A|Elijah|Ruebush|||514|F|A|Allison|Rhien|||4294967295|IBA|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Ryker|Searle|||526|F|A|Paige|Robinson|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|QUARTERFINAL|105,108,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Tucker|Urry|||551|F|A|Mary|Von Bose|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|SEMIFINAL|105,108,111,|
+M|A|Jacob|Wood|||565|F|A|Hadley|Hawkins|||4294967295|-|17|04/16/2022 15:44|Heat 51|Individual Events|Adult Novice Latin||AC-Y|ROUND 1|105,|
+M|A|Scott|Andersen|||364|F|A|Britnee|Belnap|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|1|119,122,126,|
+M|A|Hudson|Baker|||370|F|A|Kanoe|Chantry|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Samuel|Birch|||382|F|A|Summer|Andersen|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Kaleb|Call|||393|F|A|Eve|Cowen|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Anthony|Crosland|||402|F|A|Alexys|Denton|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Collin|Ferguson|||417|F|A|Sally|Rowley|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Eli|Fisher|||420|F|A|Sydney|Hill|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Sam|Gifford|||430|F|A|Mary|Gottfredson|||4294967295|Dance Island Style|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Levi|Kearsley|||466|F|A|Brinkley|Newell|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|6|119,122,126,|
+M|A|Wyatt|Lewis|||477|F|A|Kaisley|Matsuura|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Colton|Mann|||485|F|A|Isabella|Oates|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|3|119,122,126,|
+M|A|Austin|Orme|||499|F|A|Cambri|Kunde|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Ashton|Reilley|||511|F|A|Emmy|Wilder|||4294967295|Ashton Reilley|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|4|119,122,126,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|2|119,122,126,|
+M|A|Nathan|Tolman|||546|F|A|Nicole|Tolman|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|7|119,122,126,|
+M|A|Bryant|Wiblin|||558|F|A|Claire|Black|||4294967295|Extreme|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|SEMIFINAL|119,122,|
+M|A|Hyrum|Wiblin|||559|F|A|Sable|Reilley|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|QUARTERFINAL|119,|
+M|A|Gentleman|WriteInAm605|||605|F|A|Lady|WriteInAm605|||4294967295|-|18|04/16/2022 16:00|Heat TBD|Individual Events|Elementary Syllabus American Foxtrot||AC-Y|5|119,122,126,|
+M|A|Dantes|Haslam|||439|F|A|Vanessa|Rich|||4294967295|BYU|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|1|123,|
+M|A|Travian|Haslam|||440|F|A|Bella|Siller|||4294967295|BYU|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|2|123,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|3|123,|
+M|A|Jaxson|Kohler|||468|F|A|Sadie|Walker|||4294967295|Star|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|5|123,|
+M|A|Joseph|Koyle|||470|F|A|Brooklym|Attebury|||4294967295|IBA|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|6|123,|
+M|A|Aidan|Scattergood|||524|F|A|Andromeda|Haslam|||4294967295|BYU|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|4|123,|
+M|A|Bezzant|Tylon|||550|F|A|Sariah|Wallis|||4294967295|Thunder Ridge High School|18|04/16/2022 16:10|Heat TBD|Individual Events|Junior Pre-Champ Smooth||AC-Y|7|123,|
+M|A|Scott|Andersen|||364|F|A|Josie|Hill|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Eli|Anderson|||365|F|A|Phoebe|Randall|||4294967295|Extreme Ballroom|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|2|117,120,124,127,|
+M|A|Logan|Benjamin|||380|F|A|Madeleine|Scattergood|||4294967295|Peak|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Samuel|Birch|||382|F|A|Avery|Spaulding|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Daniel|Black|||385|F|A|Olivia|Weaver|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|DJ|Carney|||397|F|A|Kaydence|Hart|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Sasha|Delton|||409|F|A|Macy|Simmons|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Collin|Ferguson|||417|F|A|Kaisley|Matsuura|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|3|117,120,124,127,|
+M|A|Eli|Fisher|||420|F|A|Marley|Meikle|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Logan|Fisher|||421|F|A|Fox|Katelyn|||4294967295|Peak|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Teagan|Gardner|||424|F|A|Evangeline|Randall|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Jacob|Gifford|||431|F|A|Maquel|Wittington|||4294967295|Dance Island Style|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|1|117,120,124,127,|
+M|A|Cy|Hooper|||451|F|A|Eleanor|Delton|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|4|117,120,124,127,|
+M|A|Joshua|Hudson|||455|F|A|Maia|Bradshaw|||4294967295|Dance Island Style|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Dominik|Kawamura|||465|F|A|Lilly|Murdock|||4294967295|Dominik Kawamura|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Levi|Kearsley|||466|F|A|Brinkley|Newell|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Nathanael|Lamph|||474|F|A|Abigail|Callister|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Ricky|Leonard|||476|F|A|Annalei|Judy|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Wyatt|Lewis|||477|F|A|Kaisley|Matsuura|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|5|117,120,124,127,|
+M|A|Kristopher|Nelson|||494|F|A|Brynley|Hooper|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Tanner|Orme|||497|F|A|London|Stoleworthy|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Austin|Orme|||499|F|A|Britnee|Belnap|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Spencer|Palmer|||501|F|A|Lucy|Wilder|||4294967295|Spencer Palmer|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Jase|Poliski|||506|F|A|Annie|Benson|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Josiah|Randall|||509|F|A|Phoebe|Randall|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Teagan|Reilley|||510|F|A|Kiera|Ferguson|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Ashton|Reilley|||511|F|A|Emmy|Wilder|||4294967295|Ashton Reilley|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Connor|Robison|||517|F|A|Gracee|Haight|||4294967295|Connor Robison|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Kaleb|Sargent|||521|F|A|Kaiya|Haws|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Austin|Shelby|||527|F|A|Iris|Marlowe|||4294967295|Bonneville High School|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Noah|Smith|||533|F|A|Keilani|Chantry|||4294967295|Peak|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Trevor Trixie|Thunell|||545|F|A|Isabelle Jeff|Barlow|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Nathan|Tolman|||546|F|A|Claire|Black|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Sam|Turner|||549|F|A|Chelsea|Hegsted|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Logan|Weber|||556|F|A|Lizzie|Parrott|||4294967295|Pacific|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Bryant|Wiblin|||558|F|A|Cambri|Kunde|||4294967295|Extreme|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Hyrum|Wiblin|||559|F|A|Sally|Rowley|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|ROUND 1|117,|
+M|A|Crew|Wilder|||562|F|A|Ashlyn|Robinson|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|QUARTERFINAL|117,120,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|18|04/16/2022 16:21|Heat TBD|Individual Events|Junior High American Foxtrot||AC-Y|SEMIFINAL|117,120,124,|
+M|A|Christian|Baird|||367|F|A|Heidi|Whiting|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Bryson|Brown|||390|F|A|BryAna|Tirrell|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Michael|Bucy|||391|F|A|Alyssa|Thunell|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|1|118,121,125,128,|
+M|A|Mason|Carter|||399|F|A|Darby Jo|Hart|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|Laurant|Delton|||410|F|A|Sarah|Hassell|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Aidan|Ferguson|||418|F|A|Paige|Miller|||4294967295|Aidan Ferguson|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Lucas|Fletcher|||422|F|A|Kiara|Mecham|||4294967295|Dance Pacific|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|Collin|Gines|||432|F|A|Calli|Collings|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Abram|Greenfield|||434|F|A|Vanessa|Rich|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|Hayden|Hansen|||435|F|A|Parker|Cash|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Landon|Heal|||445|F|A|Mercedes|Mechem|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Matthew|Holyoak|||450|F|A|Olivia|Cowan|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|3|118,121,125,128,|
+M|A|Carter|Hooper|||452|F|A|Brinley|Arnold|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|4|118,121,125,128,|
+M|A|Ben|Huber|||454|F|A|Madelyn|Young|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|Mason|Hunt|||456|F|A|Corynn|Elizardo|||4294967295|Dance Pacific|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Casey|Ingo|||457|F|A|Sarah|Oates|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Haley|Jager|||459|F|A|Erickson|Kayson|||4294967295|Haley Jager|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Ethan|Jones|||462|F|A|Hannah|Sweat|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|David|Klemetson|||467|F|A|Taylor|Morgan|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|5|118,121,125,128,|
+M|A|Anthony|Lott|||478|F|A|Julie|Slater|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Brian|Lowe|||481|F|A|Sarah|Wilson|||4294967295|Peak|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|2|118,121,125,128,|
+M|A|Joshua|McCubbun|||488|F|A|Hannah|Barzee|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|David|Roberts|||515|F|A|Brielle|Chrsitiansen|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Cameron|Robertson|||516|F|A|Hannah|Leonard|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Brady|Rustad|||518|F|A|Kate|Koski|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|SEMIFINAL|118,121,125,|
+M|A|Jacob|Sapp|||519|F|A|Kate|Lewis|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|ROUND 1|118,|
+M|A|Garrett|Shippen|||531|F|A|Cambree|Hathaway|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|6|118,121,125,128,|
+M|A|Paulo|Siller|||532|F|A|Isabella|Siller|||4294967295|BYU Youth|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Issac|Weaver|||554|F|A|Lily|Wall|||4294967295|Extreme|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|18|04/16/2022 16:44|Heat TBD|Individual Events|Youth Pre-Champ Ballroom||AC-Y|QUARTERFINAL|118,121,|
+M|A|Andrew|Black|||386|F|A|Madi|Hawks|||4294967295|Extreme|19|04/16/2022 18:15|Heat 62|Individual Events|Adult Novice Rhythym||AC-Y|4|129,|
+M|A|Parker|Christensen|||400|F|A|Rachel|Lemmon|||4294967295|-|19|04/16/2022 18:15|Heat 62|Individual Events|Adult Novice Rhythym||AC-Y|1|129,|
+M|A|Izzak|Hawkins|||443|F|A|Madelyn|Young|||4294967295|-|19|04/16/2022 18:15|Heat 62|Individual Events|Adult Novice Rhythym||AC-Y|3|129,|
+M|A|Joshua|Luchs|||482|F|A|Ocean|Kwak|||4294967295|BYU|19|04/16/2022 18:15|Heat 62|Individual Events|Adult Novice Rhythym||AC-Y|2|129,|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|19|04/16/2022 18:18|Heat 63|Individual Events|Youth Pre Champ Rhythm||AC-Y|1|130,|
+M|A|Anthony|Lott|||478|F|A|Sydney|Harper|||4294967295|Extreme|19|04/16/2022 18:18|Heat 63|Individual Events|Youth Pre Champ Rhythm||AC-Y|2|130,|
+M|A|Casey|Duncan|||412|F|A|Jaynie|Bly|||4294967295|Extreme|19|04/16/2022 18:23|Heat 64|Individual Events|Youth Open Rhythm||AC-Y|-|-|
+M|A|Trevin|Gardner|||425|F|A|Ella|Wiblin|||4294967295|Extreme|19|04/16/2022 18:23|Heat 64|Individual Events|Youth Open Rhythm||AC-Y|-|-|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|1|132,134,|
+M|A|Will|Bare|||376|F|A|Jayna|Koyle|||4294967295|IBA|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Andrew|Black|||386|F|A|Madi|Hawks|||4294967295|Extreme|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Braydon|Dahlke|||405|F|A|Miriam|Ray|||4294967295|-|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Lorenzo|Gee|||427|F|A|Ava|Mecham|||4294967295|Dance Pacific|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Isaac|Hassel|||442|F|A|Jaynie|Bly|||4294967295|-|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Izzak|Hawkins|||443|F|A|Madelyn|Young|||4294967295|-|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Mason|Hunt|||456|F|A|Kiara|Mecham|||4294967295|Dance Pacific|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|4|132,134,|
+M|A|Christian|Jones|||463|F|A|Sarah|Radford|||4294967295|UVU|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|6|132,134,|
+M|A|Sam|Lamph|||473|F|A|Grace|Forsberg|||4294967295|-|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|5|132,134,|
+M|A|Anthony|Lott|||478|F|A|Cambree|Hathaway|||4294967295|Extreme|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|2|132,134,|
+M|A|Connor|Millet|||489|F|A|Rachel|Lemmon|||4294967295|BYU|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|3|132,134,|
+M|A|Zachary|Tolman|||548|F|A|Hannah|Leonard|||4294967295|-|20|04/16/2022 18:45|Heat 65|Individual Events|Adult Pre-Champ Smooth||AC-Y|SEMIFINAL|132,|
+M|A|Eli|Anderson|||365|F|A|Phoebe|Randall|||4294967295|Extreme Ballroom|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Garrison|Baker|||369|F|A|Kalea|Chantry|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Kainoa|Brantley|||388|F|A|Emily|Holyoak|||4294967295|Dance Island Style|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Adam|Call|||392|F|A|Mallory|Wilson|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|5|131,133,135,|
+M|A|Braxton|Davis|||408|F|A|Maegan|Wall|||4294967295|Extreme|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Sasha|Delton|||409|F|A|Sydney|Harper|||4294967295|Extreme|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Cameron|Fielding|||419|F|A|Madelyn|Black|||4294967295|Extreme|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Logan|Fisher|||421|F|A|Kai|Chantry|||4294967295|Peak|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Jacob|Gifford|||431|F|A|Olivia|Cowan|||4294967295|Dance Island Style|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|3|131,133,135,|
+M|A|Austin|Harper|||436|F|A|Olivia|Weaver|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Mason|Heal|||444|F|A|Allette|Heal|||4294967295|Dance Pacific|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Matthew|Holyoak|||450|F|A|Brooke|Ackley|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|2|131,133,135,|
+M|A|Joseph|Koyle|||470|F|A|Brooklym|Attebury|||4294967295|IBA|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Matthew|Lott|||480|F|A|Elyse|Fisher|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|QUARTERFINAL|131,|
+M|A|Josiah|Randall|||509|F|A|Reo|Cash|||4294967295|Extreme|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Paulo|Siller|||532|F|A|Isabella|Siller|||4294967295|BYU Youth|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|1|131,133,135,|
+M|A|Garrison|Willis|||563|F|A|TaVerie|Huston|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|4|131,133,135,|
+M|A|Evan|Zumwalt|||567|F|A|Harley|Lott|||4294967295|-|20|04/16/2022 19:01|Heat 66|Individual Events|Junior Pre-Champ Latin||AC-Y|SEMIFINAL|131,133,|
+M|A|Ben|Huber|||454|F|A|Grace|Osai|||4294967295|Extreme|20|04/16/2022 19:33|Heat 67|Individual Events|Open West Coast Swing||AC-Y|3|137,|
+M|A|Anthony|Lott|||478|F|A|Madelyn|Young|||4294967295|Extreme|20|04/16/2022 19:33|Heat 67|Individual Events|Open West Coast Swing||AC-Y|2|137,|
+M|A|Tanner|Martin|||487|F|A|Oshyn|Christensen|||4294967295|-|20|04/16/2022 19:33|Heat 67|Individual Events|Open West Coast Swing||AC-Y|1|137,|
+M|A|Eric|Hassel|||441|F|A|Sarah|Hassell|||4294967295|-|21|04/16/2022 19:30|Heat 49|Individual Events|Adult Cabaret||AC-Y|1|139,|
+M|A|Brendan|Marsh|||486|F|A|Savannah|Henderson|||4294967295|-|21|04/16/2022 19:30|Heat 49|Individual Events|Adult Cabaret||AC-Y|2|139,|
+M|A|Carson|Baker|||368|F|A|Kate|Hiener|||4294967295|Peak|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|3|138,|
+M|A|Adam|Benson|||381|F|A|Summer|Benson|||4294967295|BYU|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|4|138,|
+M|A|Shanden|Hoffman|||449|F|A|Sabrina|Hoffman|||4294967295|-|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|1|138,|
+M|A|Christian|Jones|||463|F|A|Sarah|Radford|||4294967295|UVU|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|5|138,|
+M|A|Tristan|Moe|||491|F|A|Kelli|Ripplinger|||4294967295|BYU|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|2|138,|
+M|A|Micah|Shinsato|||530|F|A|Chelsea|Bentley|||4294967295|-|21|04/16/2022 19:31|Heat 67|Individual Events|Adult Open Latin||AC-Y|6|138,|
+M|A|Tyler|Bell|||379|F|A|Elyza|Lester|||4294967295|The Dance Shoppe|21|04/16/2022 19:40|Heat 68|Individual Events|Adult Pre-Champ Rhythm||AC-Y|1|136,|
+M|A|Joshua|Luchs|||482|F|A|Ocean|Kwak|||4294967295|BYU|21|04/16/2022 19:40|Heat 68|Individual Events|Adult Pre-Champ Rhythm||AC-Y|2|136,|

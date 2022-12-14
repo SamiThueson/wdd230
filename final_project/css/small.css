@@ -1,0 +1,260 @@
+header,
+footer {
+	background-color: #042ca6;
+    color: white;
+	padding: 10px;
+    font-family: 'Nunito Sans', 'Montserrat', sans-serif;
+}
+
+p, form, ul, a, img {
+    font-family: 'Montserrat', 'Nunito Sans', sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+/******************* HEADER *********************/
+
+.flex-header {
+    display: flex;
+	flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo img {
+	width: 200px;
+	height: auto;
+}
+
+header div button {
+    margin: .2rem 2vw;
+    background: transparent;
+    border: none;
+    font-size: 2rem;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    text-align: center;
+}
+nav ul.open {
+    display: block;
+}
+
+#hamburgerBtn span:nth-child(1) {display: block;}
+#hamburgerBtn span:nth-child(2) {display: none;}
+
+#hamburgerBtn.open span:nth-child(1) {display: none;}
+#hamburgerBtn.open span:nth-child(2) {display: block;}
+
+nav ul li a {
+    display: block;
+    padding: .8rem 2vw;
+    text-decoration: none;
+    color: white;
+    /* border-top: 1px solid black; */
+}
+nav ul li.active a {
+    background-color: #0b3cd1;
+}
+nav ul li a:hover {
+    /* background-color: #92b1e4; */
+    color: #f5e830;
+}
+
+/******************* MAIN *********************/
+
+main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main section {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: #ccd9ee;
+    margin: 5px;
+    padding: 1rem;
+    height: auto;
+    text-align: center;
+}
+
+.index section:nth-child(3) {
+    display: none;
+}
+
+.index img {
+    max-height: 250px;
+    max-width: fit-content;
+}
+
+.button {
+    margin: .2rem 2vw;
+    padding: 10px;
+    background: #0b3cd1;
+    /* border: 2px solid white; */
+    border-radius: 5px;
+    /* font-size: 1rem; */
+    color: white;
+    text-decoration: none;
+    box-shadow: 0 0 5px #333;
+    text-align: center;
+}
+
+.register-home h3 a {
+    text-decoration: none;
+    color: black;
+}
+.register-home h3 a:hover {
+    color: #f5e830;
+}
+.register-home h3 {
+    margin: auto;
+    margin-left: 10px;
+}
+
+.register-home {
+    display: flex;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    min-width: fit-content;
+    justify-content: center;
+}
+
+.regis-mini, #join-em, #sprkcity, #thdonate {
+    display: none;
+}
+
+/******************* JOIN_EMAIL *********************/
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#f1 input {
+    margin-bottom: 20px;
+}
+
+#updates1, #updates2, #updates3, #updates4, #updates5 {
+    display: inline;
+}
+
+#checkbox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cl1, #cl2, #cl3, #cl4, #cl5 {
+    margin-bottom: 10px;
+}
+
+/******************* REGISTRATION *********************/
+
+.register {
+    display: block;
+}
+.register a {
+    /* text-decoration: none; */
+    color: black;
+}
+.register a:hover {
+    color: #f5e830;
+}
+
+.tech a {
+    margin: .2rem 2vw;
+    padding: 10px;
+    background: #0b3cd1;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 0 0 5px #333;
+}
+.tech {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+form input:required {
+    border-left: red solid 6px;
+}
+
+form input:required:valid {
+    border-left: green solid 6px;
+}
+
+#top input, textarea {
+    margin-bottom: 20px;
+}
+textarea {
+    height: 100px;
+    width: 400px;
+}
+
+label, input {
+    display: block;
+    font-size: 1em;
+}
+
+#class1, #class2, #class3, #class4 {
+    display: inline;
+}
+
+#radio {
+    margin-top: 10px;
+}
+#one, #two, #three, #four {
+    margin-bottom: 10px;
+}
+
+#submit {
+    background-color: #0b3cd1;
+    border-color: white;
+    color: white;
+}
+
+/**************** LEARN TO DANCE ******************/
+
+.learn a {
+    color: black;
+}
+.learn a:hover {
+    color: #f5e830;
+}
+
+/**************** CONTACT ******************/
+
+.contact a {
+    text-decoration: none;
+    color: black;
+}
+.contact a:hover {
+    color: #f5e830;
+}
+
+/******************* FOOTER *********************/
+
+.foot {
+    text-align: center;
+}
+.foot a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+.foot a:hover {
+    color: #f5e830;
+    background-color: transparent;
+    text-decoration: none;
+}
+#terms {
+    margin-top: 15px;
+}
+

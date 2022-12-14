@@ -1,0 +1,81 @@
+{
+    "youth-coaches": [
+        {
+            "name": "Staci Huston",
+            "team": "Youth Gold",
+            "image": "images-2ges/staci-h.webp"
+        },
+        {
+            "name": "Ryan Palmer",
+            "team": "Youth Blue 1",
+            "image": "images-2/ryan-p.webp"
+        },
+        {
+            "name": "Roger Wiblin",
+            "team": "Youth Blue 2",
+            "image": "images-2/roger-w.webp"
+        },
+        {
+            "name": "Tim Huston",
+            "team": "Youth Cabaret",
+            "image": "images-2/tim-h.webp"
+        },
+        {
+            "name": "Ana Sargent",
+            "team": "Youth Showcase and Cabaret",
+            "image": "images-2/ana-s.webp"
+        },
+        {
+            "name": "Becci Christensen",
+            "team": "Youth Showcase",
+            "image": "images-2/becci-c.webp"
+        },
+        {
+            "name": "Kayli Emfield",
+            "team": "Youth Showcase",
+            "image": "images-2/kayli-e.webp"
+        }
+    ],
+    "junior-coaches": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ],
+    "technique-coaches": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ],
+    "preteen/peewee-coaches": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ],
+    "sparkle-city": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ],
+    "office-staff": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ],
+    "costume-gals": [
+        {
+            "name": "New Content Coming Soon",
+            "team": "",
+            "image": ""
+        }
+    ]
+}
