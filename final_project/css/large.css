@@ -12,7 +12,7 @@
 
     /******************* MAIN *********************/
 
-    .regis-mini, #join-em, #sprkcity, #thdonate {
+    .regis-mini, .join-em, #sprkcity, #thdonate {
         display: none;
     }
 
@@ -54,4 +54,16 @@
         justify-content: center;
     }
     #summer-form {grid-area: 2 / 3 / 3 / 4;}
+}
+
+@media (min-width: 1030px) {
+    /******************* ABOUT *********************/
+
+    .all-coaches {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: auto auto auto;
+        justify-content: center;
+        align-content: center;
+    }
 }

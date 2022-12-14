@@ -125,7 +125,7 @@ main section {
     justify-content: center;
 }
 
-.regis-mini, #join-em, #sprkcity, #thdonate {
+.regis-mini, .join-em, #sprkcity, #thdonate {
     display: none;
 }
 
@@ -167,7 +167,7 @@ form {
     color: #f5e830;
 }
 
-.tech a {
+.button2 a {
     margin: .2rem 2vw;
     padding: 10px;
     background: #0b3cd1;
@@ -176,7 +176,7 @@ form {
     text-decoration: none;
     box-shadow: 0 0 5px #333;
 }
-.tech {
+.button2 {
     display: flex;
     flex-direction: column;
     margin-top: 20px;
@@ -227,6 +227,70 @@ label, input {
 }
 .learn a:hover {
     color: #f5e830;
+}
+
+/******************* ABOUT **********************/
+
+.grp-coaches {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 15px;
+}
+
+.abtlinks {
+    margin: .2rem 2vw;
+    padding: 10px;
+    background: #0b3cd1;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 15px 15px 15px #333;
+}
+
+div picture {
+    margin-bottom: 5px;
+}
+
+.all-coaches {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+/**************** ALL COACHES PAGES ******************/
+
+.youth-coaches {
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.youth-coaches section {
+    padding: 30px;
+    width: 300px;
+    margin: 20px;
+}
+
+.youth-coaches img {
+    width: 90%;
+    max-height: 250px;
+}
+
+/**************** TIM AND STACI PAGE ******************/
+
+.tshuston li {
+    padding: 5px;
+}
+
+.tshuston img {
+    max-width: 250px;
+}
+
+.visit {
+    text-align: center;
 }
 
 /**************** CONTACT ******************/
